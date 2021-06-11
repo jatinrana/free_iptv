@@ -241,6 +241,14 @@ http://103.153.175.254:8080/hls/stream40.m3u8
 http://103.153.175.254:8080/hls/stream39.m3u8
 #EXTINF:0,Ten Cricket 
 http://103.153.175.254:8080/hls/stream34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC One E-Mid" tvg-logo="http://tvstar.live:8880/chimg/3548997375.png" group-title="UK || Direct Local",|UK| BBC One E-Mid
+http://stariptv.xyz:8880/live/889377/114832/283842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC One East" tvg-logo="http://tvstar.live:8880/chimg/6258073564.png" group-title="UK || Direct Local",|UK| BBC One East
+http://stariptv.xyz:8880/live/889377/114832/283843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC One FHD" tvg-logo="http://tvstar.live:8880/chimg/3820631164.png" group-title="UK || Direct Local",|UK| BBC One FHD
+http://stariptv.xyz:8880/live/889377/114832/283844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC One HD" tvg-logo="http://tvstar.live:8880/chimg/3662810693.png" group-title="UK || Direct Local",|UK| BBC One HD
+http://stariptv.xyz:8880/live/889377/114832/283845.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url=""  tvg-language="" group-title="Sports",Ten Sports
 http://starshare.live:8080/live/7383236789/2773376789/98.ts
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1" group-title="ENGLISH-SPORTS",FOX Sports 1
