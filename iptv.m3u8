@@ -69,37 +69,20 @@ http://103.153.175.254:8080/hls/stream2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_Max_Deewana_Bana_De.jpg/revision/latest?cb=20190525052814" group-title="HINDI-MOVIES"" ,SONY MAX
-http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="HINDI-MOVIES",Sony Max HD
-http://208.115.215.42/SonY_Max_HD/index.m3u8
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="HINDI-MOVIES",Sony Max HD
-https://m3u-editor.com/serve/0872b600-afc0-11eb-9fa2-0d409f0dc5fe/288761627
+
+
 #EXTINF:0 "https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="HINDI-MOVIES"" , Sony Max UK|HD
 http://ottin.me:8000/salam_000946/ImHfNpi5/108918
-#EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="HINDI-MOVIES",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI-MOVIES"",ZEE CINEMA HD
-http://103.153.175.254:8080/hls/stream25.m3u8
-#http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI-MOVIES"",ZEE CINEMA HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI-MOVIES",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI-MOVIES",Zee Cinema UK
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI-MOVIES",Cinema UK
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI-MOVIES",Zee Cinema ME
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI-MOVIES",Zee Cinema USA
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="HINDI-MOVIES", Star Gold HD
-http://103.153.175.254:8080/hls/stream19.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="HINDI-MOVIES", Star Gold HD
-https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="HINDI-MOVIES",Star Gold US
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_kx2bHBichR3U
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="HINDI-MOVIES",Star Gold UK|HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/108916
 #EXTINF:0 tvg-logo="https://i.imgur.com/KixHmqt.png" group-title="HINDI-MOVIES",And Pictures SD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
@@ -107,8 +90,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 http://103.153.175.254:8080/hls/stream14.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="HINDI-MOVIES",And Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="HINDI-MOVIES",And Pictures HD
-http://starshare.live:8080/live/7383236789/2773376789/231.ts
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="HINDI-MOVIES",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-bollywood.png" group-title="HINDI-MOVIES"" , ZEE BOLLYWOOD HD
