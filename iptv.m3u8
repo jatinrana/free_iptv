@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="Hindi" tvg-country="IN" tvg-url="" tvg-logo="" group-title="HINDI-Live" ,Live
+https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-language="Hindi" tvg-country="IN" tvg-url="" tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI-SHOWS" , STAR PLUS HD
 http://103.153.175.254:8080/hls/stream38.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-language="Hindi" tvg-country="IN" tvg-url="" tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI-SHOWS" , STAR PLUS HD
