@@ -3,3 +3,33 @@
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 #EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
 http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
+#EXTINF:-1 group-title="ZinaMedia {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein MAX 1 (1080p)
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
+#EXTINF:-1 group-title="ZinaMedia {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein MAX 2 (1080p)
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX2-H265/video.m3u8
+#EXTINF:-1 group-title="ZinaMedia {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein MAX 3 (1080p)
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX3-H265/video.m3u8
+#EXTINF:-1 group-title="ZinaMedia {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein MAX 4 (1080p)
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX4-H265/video.m3u8
+#EXTINF:-1 group-title="ZinaMedia {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein MAX 5 (1080p)
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX5-H265/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-1-hd.png" group-title="Sports", 79. STAR SPORTS 1 HD
+http://15.1.5.10:8082/STAR-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-2-hd.png" group-title="Sports", 70. STAR SPORTS 2 HD
+http://stream.amrbd.com:8082/Star-Sports-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-select-1-hd.png" group-title="Sports", 71. STAR SPORTS SELECT 1 HD 
+http://15.1.5.14:8082/Star_Sport_Select1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-select-2-hd.png" group-title="Sports", 72. STAR SPORTS SELECT 2 HD
+http://15.1.5.10:8082/select2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sports-ten-1-hd.png" group-title="Sports", 73. SONY SPORTS TEN 1 HD
+http://stream.amrbd.com:8082/Ten1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sports-ten-2-hd.png" group-title="Sports", 74. SONY SPORTS TEN 2 HD
+http://stream.amrbd.com:8082/Ten2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sports-ten-3-hd.png" group-title="Sports", 75. SONY SPORTS TEN 3 HD
+http://stream.amrbd.com:8082/Ten3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sports-ten-5-hd.png" group-title="Sports", 76. SONY SPORTS TEN 5 HD
+http://stream.amrbd.com:8082/SonySix/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ptv-sports-hd.png" group-title="Sports", 77. PTV SPORTS HD
+http://15.1.5.10:8082/PTV-SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ten-sports-hd.png" group-title="Sports", 78. TEN SPORTS HD
+http://stream.amrbd.com:8082/Ten-Sports/index.m3u8
