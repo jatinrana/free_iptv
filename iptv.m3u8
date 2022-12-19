@@ -1,4 +1,65 @@
 #EXTM3U
+#EXTINF:-1 group-title="Punjabi" tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Hindi",SONY SAB
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/23340.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Undefined",SONY Sports 5 HD
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/23342.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Undefined",STAR VIJAY
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/23363.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Undefined",SUN MUSIC
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/22983.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Sport",Sony SPORTS 1 HD
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/22989.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Movie",ZEE CINEMA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/23430.ts?checkedby:iptvcat.net
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="English",&AMP; PRIVE
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/22997.ts
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Music",9X JALWA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/23006.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dhamaal (1080p) [Not 24/7]
+https://live.hungama.com/linear/dhamaal/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dil Se (360p) [Not 24/7]
+https://live.hungama.com/linear/dil-se/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Kadak Hits (1080p) [Not 24/7]
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="Undefined",MASTIII
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/23215.ts?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Artist Aloud (1080p)
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Movie",Dreamz TV (576p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",FASTWAY NEWS (720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="News",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png" group-title="News",CNBC AWAAZ
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/23063.ts?checkedby:iptvcat.net
+
 #EXTINF:-1 ,BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 #EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
