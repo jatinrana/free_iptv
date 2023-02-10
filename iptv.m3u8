@@ -129,6 +129,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676012742/ei/Z
 #EXTINF:-1 group-title="Gujarati (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrjHAKHvrNSmAaKygPhSuwwEY7dXmSDIZYc7VWPw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", ABP Asmita
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676012742/ei/ZpjlY7aEL4CDsfIPh8uN4AU/ip/4.227.0.225/id/hDVpRr9-Xr0.1/source/yt_live_broadcast/requiressl/yes/tx/24452301/txs/24452300%2C24452301%2C24452302%2C24452303/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOim__--_CkublZ8EWd4xcIoWch8XDtExy-MRFMFWDV4AiEA46TzMhAX_kKBeGzkRRHK_y-dFlHeVJiRglGkh_rkQ-E%3D/file/index.m3u8
 
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",FASTWAY NEWS (720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.net
+
 #EXTINF:-1 group-title="Music (Youtube)" tvg-logo="https://yt3.ggpht.com/qXwJcIl7ufH0x8skbCBBdACHCgRKuPxXRIR3AQCBxNolUiQ0OwOEdK3Qo9p7tiTGBAzq0nY0430=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytLofiGirl", Lofi Girl-2
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676012747/ei/a5jlY7T5ItSgkgbmy5nQBg/ip/4.227.0.225/id/rUxyKA_-grg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPMn8vpWxywVmGN4lPlHbIULqicVvESepPfBlHGvkfnQCIEBWO1vWnGqgJjkAKguxAyVr1Et_dhF2UfhiTCz60_Mf/file/index.m3u8
 
@@ -163,15 +166,12 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dhamaal (1080p) [Not 24/7]
+https://live.hungama.com/linear/dhamaal/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dil Se (360p) [Not 24/7]
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-
-
-
-#EXTINF:-1 ,Hungama Dhamal
-http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
-#EXTINF:-1 group-title="" tvg-logo="",Hungama Dhamal
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
+https://live.hungama.com/linear/dil-se/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Kadak Hits (1080p) [Not 24/7]
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8?checkedby:iptvcat.net
 
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Gurbani Shabad Kirtan - Amritt Saagar
