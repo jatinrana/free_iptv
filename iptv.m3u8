@@ -3,33 +3,3 @@
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",FASTWAY NEWS (720p)
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.net
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="Hindi",Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dhamaal (1080p) [Not 24/7]
-https://live.hungama.com/linear/dhamaal/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Dil Se (360p) [Not 24/7]
-https://live.hungama.com/linear/dil-se/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Kadak Hits (1080p) [Not 24/7]
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8?checkedby:iptvcat.net
-
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Gurbani Shabad Kirtan - Amritt Saagar
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676019199/ei/n7HlY7-pCOy7ir4P2faPuAg/ip/104.210.132.82/id/l0bg79oY2uo.1/source/yt_live_broadcast/requiressl/yes/tx/24276395/txs/24276394%2C24276395%2C24276396%2C24276397%2C24276398%2C24276399/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL1rjjl5ubaXW4QGs9A2Qc341hynJu8PjnUrcZYhORyaAiEAr4C46_qqTBquPKThdro0P6sD0e9F8L-R9LR-U3WJnAI%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", ISKCON Dallas - Sri Radha Kalachandji
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676019199/ei/n7HlY6bVKs7Zlu8PjIiZuA8/ip/104.210.132.82/id/74M5YlzwJas.1/source/yt_live_broadcast/requiressl/yes/tx/24416441/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPPm_ibDPRQS8qaHb4J35lZXIVHCSl-6nGjIn2x3S1ABAiBeYZpR0_pyauZBpBi5jr8lrQAbLa0524t6g9rR8fJcag%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Sikhism TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676019200/ei/oLHlY6TQKYrbigTNwonYAg/ip/104.210.132.82/id/PDdrSxMc-3I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIs2xb-3aruRZDOhyc4tADIAWS8Ih3kNyNUxjOfwetk8AiAhlXhVc0yq4hw6iovtefdOYudBu7wC9IKvNGtIeVM3jQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree KasthBhanjandev Hanumanji Mandir Salangpur
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676019202/ei/orHlY-2KHNyNlu8P_cq4kAQ/ip/104.210.132.82/id/BeLF0LhAp8A.3/source/yt_live_broadcast/requiressl/yes/tx/24436455/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKrau1m-SiZMCPOqdEkeAVPmQ2e1UNi3OSFNjJGnz-I9AiEAg6_YfWFzYnCa8KQFmY_KcHzXu-1JAivndZkkAzJt0yk%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Sri Naga Sai Mandir
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676019205/ei/pLHlY9O1NpKY6QKegLmACw/ip/104.210.132.82/id/7Miz0FlTwik.1/source/yt_live_broadcast/requiressl/yes/tx/24416440/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLZ7QH1fz3aTzcZHFWvTbN7z5a_Bk18dNKG_vL9yNphsCIQC1vP2dI_xkpWl67ON1Xyu4mMsHQb53hf-8U3f0peUfsw%3D%3D/file/index.m3u8
