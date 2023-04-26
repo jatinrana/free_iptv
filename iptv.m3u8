@@ -194,7 +194,6 @@ https://livectv.phando.com/8002/chunklist0.m3u8
 https://livectv.phando.com/8001/chunklist0.m3u8
 #EXTINF:-1,DW ENGLISH HD
 https://livectv.phando.com/8000/chunklist0.m3u8
-
 #EXTINF:-1,Astha Bhajan
 https://livectv1.phando.com/8086/chunklist0.m3u8
 #EXTINF:-1,Bharat 24
@@ -381,4 +380,5 @@ https://livectv1.phando.com/8088/chunklist0.m3u8
 https://livectv1.phando.com/8089/chunklist0.m3u8
 #EXTINF:0,EPIC ON
 https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
-
+#EXTINF:0,Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
