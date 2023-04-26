@@ -3,194 +3,383 @@
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:30,IBC 24
+#EXTINF:-1,IBC 24
 https://livectv.phando.com/8074/chunklist0.m3u8
-#EXTINF:30,9X Tashan
+#EXTINF:-1,9X Tashan
 https://livectv.phando.com/8075/chunklist0.m3u8
-#EXTINF:30,Food Food
+#EXTINF:-1,Food Food
 https://livectv.phando.com/8076/chunklist0.m3u8
-#EXTINF:30,Shemaroo Umang
+#EXTINF:-1,Shemaroo Umang
 https://livectv.phando.com/8077/chunklist0.m3u8
-#EXTINF:30,Atrangi TV
+#EXTINF:-1,Atrangi TV
 https://livectv.phando.com/8078/chunklist0.m3u8
-#EXTINF:30,Bflix
+#EXTINF:-1,Bflix
 https://livectv.phando.com/8079/chunklist0.m3u8
-#EXTINF:30,Sangeet Bangla
+#EXTINF:-1,Sangeet Bangla
 https://livectv.phando.com/8080/chunklist0.m3u8
-#EXTINF:30,ANB News
+#EXTINF:-1,ANB News
 https://livectv.phando.com/8082/chunklist0.m3u8
-#EXTINF:30,4 TV
+#EXTINF:-1,4 TV
 https://livectv.phando.com/8032/chunklist0.m3u8
-#EXTINF:30,Republic TV Bharat
+#EXTINF:-1,Republic TV Bharat
 https://livectv.phando.com/8083/chunklist0.m3u8
-#EXTINF:30,Khabar Fast
+#EXTINF:-1,Khabar Fast
 https://livectv.phando.com/8085/chunklist0.m3u8
-#EXTINF:30,Fashion TV
+#EXTINF:-1,Fashion TV
 https://livectv.phando.com/8086/chunklist0.m3u8
-#EXTINF:30,E24
+#EXTINF:-1,E24
 https://livectv.phando.com/8087/chunklist0.m3u8
-#EXTINF:30,PTC Music
+#EXTINF:-1,PTC Music
 https://livectv.phando.com/8088/chunklist0.m3u8
-#EXTINF:30,Republic TV
+#EXTINF:-1,Republic TV
 https://livectv.phando.com/8089/chunklist0.m3u8
-#EXTINF:30,Goldmines
+#EXTINF:-1,Goldmines
 https://livectv.phando.com/8073/chunklist0.m3u8
-#EXTINF:30,Dhinchak 2
+#EXTINF:-1,Dhinchak 2
 https://livectv.phando.com/8072/chunklist0.m3u8
-#EXTINF:30,B4U Bhojpuri
+#EXTINF:-1,B4U Bhojpuri
 https://livectv.phando.com/8071/chunklist0.m3u8
-#EXTINF:30,DHINCHAAK
+#EXTINF:-1,DHINCHAAK
 https://livectv.phando.com/8070/chunklist0.m3u8
-#EXTINF:30,Naaptol
+#EXTINF:-1,Naaptol
 https://livectv.phando.com/8069/chunklist0.m3u8
-#EXTINF:30,Sangeet Bhojpuri
+#EXTINF:-1,Sangeet Bhojpuri
 https://livectv.phando.com/8068/chunklist0.m3u8
-#EXTINF:30,9XM
+#EXTINF:-1,9XM
 https://livectv.phando.com/8067/chunklist0.m3u8
-#EXTINF:30,Pitara
+#EXTINF:-1,Pitara
 https://livectv.phando.com/8066/chunklist0.m3u8
-#EXTINF:30,9x Jalwa
+#EXTINF:-1,9x Jalwa
 https://livectv.phando.com/8065/chunklist0.m3u8
-#EXTINF:30,Dabangg
+#EXTINF:-1,Dabangg
 https://livectv.phando.com/8064/chunklist0.m3u8
-#EXTINF:30,Wow Cinema One
+#EXTINF:-1,Wow Cinema One
 https://livectv.phando.com/8063/chunklist0.m3u8
-#EXTINF:30,Shemaroo
+#EXTINF:-1,Shemaroo
 https://livectv.phando.com/8062/chunklist0.m3u8
-#EXTINF:30,Mastii
+#EXTINF:-1,Mastii
 https://livectv.phando.com/8061/chunklist0.m3u8
-#EXTINF:30,B4u Kadak
+#EXTINF:-1,B4u Kadak
 https://livectv.phando.com/8060/chunklist0.m3u8
-#EXTINF:30,Music India
+#EXTINF:-1,Music India
 https://livectv.phando.com/8059/chunklist0.m3u8
-#EXTINF:30,9x Jhakas
+#EXTINF:-1,9x Jhakas
 https://livectv.phando.com/8058/chunklist0.m3u8
-#EXTINF:30,Maiboli
+#EXTINF:-1,Maiboli
 https://livectv.phando.com/8057/chunklist0.m3u8
-#EXTINF:30,Hindi khabar
+#EXTINF:-1,Hindi khabar
 https://livectv.phando.com/8056/chunklist0.m3u8
-#EXTINF:30,Cinema TV
+#EXTINF:-1,Cinema TV
 https://livectv.phando.com/8055/chunklist0.m3u8
-#EXTINF:30,Kalinga TV
+#EXTINF:-1,Kalinga TV
 https://livectv.phando.com/8054/chunklist0.m3u8
-#EXTINF:30,Khushboo
+#EXTINF:-1,Khushboo
 https://livectv.phando.com/8053/chunklist0.m3u8
-#EXTINF:30,Dangal 2
+#EXTINF:-1,Dangal 2
 https://livectv.phando.com/8052/chunklist0.m3u8
-#EXTINF:30,Dangal
+#EXTINF:-1,Dangal
 https://livectv.phando.com/8051/chunklist0.m3u8
-#EXTINF:30,Divya
+#EXTINF:-1,Divya
 https://livectv.phando.com/8049/chunklist0.m3u8
-#EXTINF:30,Fateh TV
+#EXTINF:-1,Fateh TV
 https://livectv.phando.com/8048/chunklist0.m3u8
-#EXTINF:30,News State UP/UK
+#EXTINF:-1,News State UP/UK
 https://livectv.phando.com/8047/chunklist0.m3u8
-#EXTINF:30,Newsdaily 24
+#EXTINF:-1,Newsdaily 24
 https://livectv.phando.com/8046/chunklist0.m3u8
-#EXTINF:30,Nandigosha TV
+#EXTINF:-1,Nandigosha TV
 https://livectv.phando.com/8045/chunklist0.m3u8
-#EXTINF:30,Manoranjan TV
+#EXTINF:-1,Manoranjan TV
 https://livectv.phando.com/8044/chunklist0.m3u8
-#EXTINF:30,Manoranjan Grand
+#EXTINF:-1,Manoranjan Grand
 https://livectv.phando.com/8043/chunklist0.m3u8
-#EXTINF:30,Rongeen TV
+#EXTINF:-1,Rongeen TV
 https://livectv.phando.com/8042/chunklist0.m3u8
-#EXTINF:30,Ishwar Bhakti Tv
+#EXTINF:-1,Ishwar Bhakti Tv
 https://livectv.phando.com/8041/chunklist0.m3u8
-#EXTINF:30,Bansal News
+#EXTINF:-1,Bansal News
 https://livectv.phando.com/8040/chunklist0.m3u8
-#EXTINF:30,Samachar Plus
+#EXTINF:-1,Samachar Plus
 https://livectv.phando.com/8039/chunklist0.m3u8
-#EXTINF:30,Good News
+#EXTINF:-1,Good News
 https://livectv.phando.com/8038/chunklist0.m3u8
-#EXTINF:30,Subhsandesh
+#EXTINF:-1,Subhsandesh
 https://livectv.phando.com/8037/chunklist0.m3u8
-#EXTINF:30,Movie Plus
+#EXTINF:-1,Movie Plus
 https://livectv.phando.com/8036/chunklist0.m3u8
-#EXTINF:30,Popular TV
+#EXTINF:-1,Popular TV
 https://livectv.phando.com/8035/chunklist0.m3u8
-#EXTINF:30,Raftaar Media
+#EXTINF:-1,Raftaar Media
 https://livectv.phando.com/8034/chunklist0.m3u8
-#EXTINF:30,MH1 News
+#EXTINF:-1,MH1 News
 https://livectv.phando.com/8033/chunklist0.m3u8
-#EXTINF:30,4 TV
+#EXTINF:-1,4 TV
 https://livectv.phando.com/8032/chunklist0.m3u8
-#EXTINF:30,A1 TV
+#EXTINF:-1,A1 TV
 https://livectv.phando.com/8031/chunklist0.m3u8
-#EXTINF:30,TV9 Bangla
-https://livectv.phando.com/8030/chunklist0.m3u8
-#EXTINF:30,Goldmine Bollywood
+#EXTINF:-1,TV9 Bangla
+https://livectv.phando.com/80-1/chunklist0.m3u8
+#EXTINF:-1,Goldmine Bollywood
 https://livectv.phando.com/8029/chunklist0.m3u8
-#EXTINF:30,Subhsandesh
+#EXTINF:-1,Subhsandesh
 https://livectv.phando.com/8037/chunklist0.m3u8
-#EXTINF:30,Movie Plus
+#EXTINF:-1,Movie Plus
 https://livectv.phando.com/8036/chunklist0.m3u8
-#EXTINF:30,Popular TV
+#EXTINF:-1,Popular TV
 https://livectv.phando.com/8035/chunklist0.m3u8
-#EXTINF:30,MH1 Music
+#EXTINF:-1,MH1 Music
 https://livectv.phando.com/8028/chunklist0.m3u8
-#EXTINF:30,MH1 Shraddha
+#EXTINF:-1,MH1 Shraddha
 https://livectv.phando.com/8027/chunklist0.m3u8
-#EXTINF:30,Manoranjan Prime
+#EXTINF:-1,Manoranjan Prime
 https://livectv.phando.com/8026/chunklist0.m3u8
-#EXTINF:30,Dil Se Movies
+#EXTINF:-1,Dil Se Movies
 https://livectv.phando.com/8025/chunklist0.m3u8
-#EXTINF:30,Gyandarshan 1
+#EXTINF:-1,Gyandarshan 1
 https://livectv.phando.com/8024/chunklist0.m3u8
-#EXTINF:30,DD Sahyadri
+#EXTINF:-1,DD Sahyadri
 https://livectv.phando.com/8023/chunklist0.m3u8
-#EXTINF:30,DD Kashir
+#EXTINF:-1,DD Kashir
 https://livectv.phando.com/8022/chunklist0.m3u8
-#EXTINF:30,DD Odia
+#EXTINF:-1,DD Odia
 https://livectv.phando.com/8021/chunklist0.m3u8
-#EXTINF:30,DD Sports 1.0
+#EXTINF:-1,DD Sports 1.0
 https://livectv.phando.com/8020/chunklist0.m3u8
-#EXTINF:30,DD Sansad TV Rajya-sabha
+#EXTINF:-1,DD Sansad TV Rajya-sabha
 https://livectv.phando.com/8019/chunklist0.m3u8
-#EXTINF:30,DD Sansad TV HD
+#EXTINF:-1,DD Sansad TV HD
 https://livectv.phando.com/8018/chunklist0.m3u8
-#EXTINF:30,Manoranjan Prime
+#EXTINF:-1,Manoranjan Prime
 https://livectv.phando.com/8026/chunklist0.m3u8
-#EXTINF:30,DD India HD
+#EXTINF:-1,DD India HD
 https://livectv.phando.com/8017/chunklist0.m3u8
-#EXTINF:30,DD News HD
+#EXTINF:-1,DD News HD
 https://livectv.phando.com/8016/chunklist0.m3u8
-#EXTINF:30,DD National HD
+#EXTINF:-1,DD National HD
 https://livectv.phando.com/8015/chunklist0.m3u8
-#EXTINF:30,DD Sports
+#EXTINF:-1,DD Sports
 https://livectv.phando.com/8014/chunklist0.m3u8
-#EXTINF:30,DD Kisan
+#EXTINF:-1,DD Kisan
 https://livectv.phando.com/8013/chunklist0.m3u8
-#EXTINF:30,ABP Sanjha
+#EXTINF:-1,ABP Sanjha
 https://livectv.phando.com/8012/chunklist0.m3u8
-#EXTINF:30,ABP Ananda
+#EXTINF:-1,ABP Ananda
 https://livectv.phando.com/8011/chunklist0.m3u8
-#EXTINF:30,ABP Asmita
+#EXTINF:-1,ABP Asmita
 https://livectv.phando.com/8010/chunklist0.m3u8
-#EXTINF:30,ABP Majha
+#EXTINF:-1,ABP Majha
 https://livectv.phando.com/8009/chunklist0.m3u8
-#EXTINF:30,TV5 Monde
+#EXTINF:-1,TV5 Monde
 https://livectv.phando.com/8008/chunklist0.m3u8
-#EXTINF:30,DD News HD
+#EXTINF:-1,DD News HD
 https://livectv.phando.com/8016/chunklist0.m3u8
-#EXTINF:30,Balle balle
+#EXTINF:-1,Balle balle
 https://livectv.phando.com/8007/chunklist0.m3u8
-#EXTINF:30,MH1 Dil Se
+#EXTINF:-1,MH1 Dil Se
 https://livectv.phando.com/8006/chunklist0.m3u8
-#EXTINF:30,B4U Music
+#EXTINF:-1,B4U Music
 https://livectv.phando.com/8005/chunklist0.m3u8
-#EXTINF:30,B4U Movies
+#EXTINF:-1,B4U Movies
 https://livectv.phando.com/8004/chunklist0.m3u8
-#EXTINF:30,TRT World
+#EXTINF:-1,TRT World
 https://livectv.phando.com/8003/chunklist0.m3u8
-#EXTINF:30,NHK World Japan
+#EXTINF:-1,NHK World Japan
 https://livectv.phando.com/8002/chunklist0.m3u8
-#EXTINF:30,NHK World Japan
+#EXTINF:-1,NHK World Japan
 https://livectv.phando.com/8002/chunklist0.m3u8
-#EXTINF:30,NHK World Japan
+#EXTINF:-1,NHK World Japan
 https://livectv.phando.com/8002/chunklist0.m3u8
-#EXTINF:30,Aljajeera English
+#EXTINF:-1,Aljajeera English
 https://livectv.phando.com/8001/chunklist0.m3u8
-#EXTINF:30,DW ENGLISH HD
+#EXTINF:-1,DW ENGLISH HD
 https://livectv.phando.com/8000/chunklist0.m3u8
+
+#EXTINF:-1,Astha Bhajan
+https://livectv1.phando.com/8086/chunklist0.m3u8
+#EXTINF:-1,Bharat 24
+https://livectv1.phando.com/8085/chunklist0.m3u8
+#EXTINF:-1,R plus Gold
+https://livectv1.phando.com/8084/chunklist0.m3u8
+#EXTINF:-1,Manoranjan Movies
+https://livectv1.phando.com/8083/chunklist0.m3u8
+#EXTINF:-1,R Plus
+https://livectv1.phando.com/8082/chunklist0.m3u8
+#EXTINF:-1,Dhoom Music
+https://livectv1.phando.com/8081/chunklist0.m3u8
+#EXTINF:-1,Fashion TV HD
+https://livectv1.phando.com/8080/chunklist0.m3u8
+#EXTINF:-1,Rupashi Bangla
+https://livectv1.phando.com/8079/chunklist0.m3u8
+#EXTINF:-1,Shubh TV
+https://livectv1.phando.com/8078/chunklist0.m3u8
+#EXTINF:-1,Zee 24 Kalak
+https://livectv1.phando.com/8077/chunklist0.m3u8
+#EXTINF:-1,Zee UP/UK
+https://livectv1.phando.com/8076/chunklist0.m3u8
+#EXTINF:-1,Zee Salaam
+https://livectv1.phando.com/8075/chunklist0.m3u8
+#EXTINF:-1,EZMall
+https://livectv1.phando.com/8074/chunklist0.m3u8
+#EXTINF:-1,R Plus
+https://livectv1.phando.com/8082/chunklist0.m3u8
+#EXTINF:-1,Dhoom Music
+https://livectv1.phando.com/8081/chunklist0.m3u8
+#EXTINF:-1,DD India
+https://livectv1.phando.com/8073/chunklist0.m3u8
+#EXTINF:-1,Lok shahi
+https://livectv1.phando.com/8072/chunklist0.m3u8
+#EXTINF:-1,India News Bangla
+https://livectv1.phando.com/8071/chunklist0.m3u8
+#EXTINF:-1,NE News
+https://livectv1.phando.com/8070/chunklist0.m3u8
+#EXTINF:-1,India News Punjab
+https://livectv1.phando.com/8069/chunklist0.m3u8
+#EXTINF:-1,India News Haryana
+https://livectv1.phando.com/8068/chunklist0.m3u8
+#EXTINF:-1,Asian News
+https://livectv1.phando.com/8067/chunklist0.m3u8
+#EXTINF:-1,Yo TV
+https://livectv1.phando.com/8066/chunklist0.m3u8
+#EXTINF:-1,Gulistan TV
+https://livectv1.phando.com/8065/chunklist0.m3u8
+#EXTINF:-1,India News Gujrat
+https://livectv1.phando.com/8064/chunklist0.m3u8
+#EXTINF:-1,India News Rajasthan
+https://livectv1.phando.com/8063/chunklist0.m3u8
+#EXTINF:-1,News X
+https://livectv1.phando.com/8062/chunklist0.m3u8
+#EXTINF:-1,Power TV
+https://livectv1.phando.com/8061/chunklist0.m3u8
+#EXTINF:-1,Janta TV
+https://livectv1.phando.com/8060/chunklist0.m3u8
+#EXTINF:-1,India News MP/CG
+https://livectv1.phando.com/8059/chunklist0.m3u8
+#EXTINF:-1,India News UP/UK
+https://livectv1.phando.com/8058/chunklist0.m3u8
+#EXTINF:-1,India News National
+https://livectv1.phando.com/8057/chunklist0.m3u8
+#EXTINF:-1,Munsif TV
+https://livectv1.phando.com/8056/chunklist0.m3u8
+#EXTINF:-1,Sadhna Bhakti
+https://livectv1.phando.com/8055/chunklist0.m3u8
+#EXTINF:-1,IND 24
+https://livectv1.phando.com/8054/chunklist0.m3u8
+#EXTINF:-1,Fakt Marathi
+https://livectv1.phando.com/8053/chunklist0.m3u8
+#EXTINF:-1,News 24 MP/CG
+https://livectv1.phando.com/8052/chunklist0.m3u8
+#EXTINF:-1,News 1 India
+https://livectv1.phando.com/8051/chunklist0.m3u8
+#EXTINF:-1,Sadhna Prime News
+https://livectv1.phando.com/8050/chunklist0.m3u8
+#EXTINF:-1,Arihant
+https://livectv1.phando.com/8049/chunklist0.m3u8
+#EXTINF:-1,Sant Wani
+https://livectv1.phando.com/8048/chunklist0.m3u8
+#EXTINF:-1,I Love
+https://livectv1.phando.com/8047/chunklist0.m3u8
+#EXTINF:-1,Peace Of Mind
+https://livectv1.phando.com/8046/chunklist0.m3u8
+#EXTINF:-1,Vaanvil Tv
+https://livectv1.phando.com/8045/chunklist0.m3u8
+#EXTINF:-1,Aaseervatham Tv
+https://livectv1.phando.com/8044/chunklist0.m3u8
+#EXTINF:-1,Hope Channel
+https://livectv1.phando.com/8043/chunklist0.m3u8
+#EXTINF:-1,Shemaroo Marathibana
+https://livectv1.phando.com/8042/chunklist0.m3u8
+#EXTINF:-1,Jinvani
+https://livectv1.phando.com/8041/chunklist0.m3u8
+#EXTINF:-1,News J
+https://livectv1.phando.com/8040/chunklist0.m3u8
+#EXTINF:-1,News Time
+https://livectv1.phando.com/8039/chunklist0.m3u8
+#EXTINF:-1,Oscar Movies Bhojpuri
+https://livectv1.phando.com/8038/chunklist0.m3u8
+#EXTINF:-1,News India 24X7
+https://livectv1.phando.com/8037/chunklist0.m3u8
+#EXTINF:-1,R Bangla
+https://livectv1.phando.com/8036/chunklist0.m3u8
+#EXTINF:-1,Sahana News
+https://livectv1.phando.com/8035/chunklist0.m3u8
+#EXTINF:-1,Anjan TV
+https://livectv1.phando.com/8034/chunklist0.m3u8
+#EXTINF:-1,Satsang TV
+https://livectv1.phando.com/8033/chunklist0.m3u8
+#EXTINF:-1,Sanskar TV
+https://livectv1.phando.com/8032/chunklist0.m3u8
+#EXTINF:-1,Insync
+https://livectv1.phando.com/8031/chunklist0.m3u8
+#EXTINF:-1,ABZY Dhakad
+https://livectv1.phando.com/80-1/chunklist0.m3u8
+#EXTINF:-1,ABZY Cool
+https://livectv1.phando.com/8029/chunklist0.m3u8
+#EXTINF:-1,Shubh Cinema
+https://livectv1.phando.com/8028/chunklist0.m3u8
+#EXTINF:-1,Sandesh News
+https://livectv1.phando.com/8027/chunklist0.m3u8
+#EXTINF:-1,ABZY Movies
+https://livectv1.phando.com/8026/chunklist0.m3u8
+#EXTINF:-1,Maha Movie
+https://livectv1.phando.com/8025/chunklist0.m3u8
+#EXTINF:-1,Macau Lotus TV
+https://livectv1.phando.com/8024/chunklist0.m3u8
+#EXTINF:-1,TV9 Bharatvarsh
+https://livectv1.phando.com/8023/chunklist0.m3u8
+#EXTINF:-1,TV9 Mumbai
+https://livectv1.phando.com/8022/chunklist0.m3u8
+#EXTINF:-1,Darshan 24
+https://livectv1.phando.com/8021/chunklist0.m3u8
+#EXTINF:-1,DD Kerla
+https://livectv1.phando.com/8020/chunklist0.m3u8
+#EXTINF:-1,TV9 Gujarati
+https://livectv1.phando.com/8019/chunklist0.m3u8
+#EXTINF:-1,Bharat Samachar
+https://livectv1.phando.com/8018/chunklist0.m3u8
+#EXTINF:-1,TV9 Tamil
+https://livectv1.phando.com/8017/chunklist0.m3u8
+#EXTINF:-1,Sudarshan TV
+https://livectv1.phando.com/8016/chunklist0.m3u8
+#EXTINF:-1,PTC Simran
+https://livectv1.phando.com/8015/chunklist0.m3u8
+#EXTINF:-1,PTC Punjabi Gold
+https://livectv1.phando.com/8014/chunklist0.m3u8
+#EXTINF:-1,PTC Chak De
+https://livectv1.phando.com/8013/chunklist0.m3u8
+#EXTINF:-1,PTC Punjabi
+https://livectv1.phando.com/8012/chunklist0.m3u8
+#EXTINF:-1,PTC News
+https://livectv1.phando.com/8011/chunklist0.m3u8
+#EXTINF:-1,News 24
+https://livectv1.phando.com/8010/chunklist0.m3u8
+#EXTINF:-1,M Tunes +
+https://livectv1.phando.com/8009/chunklist0.m3u8
+#EXTINF:-1,Aakash Bangla
+https://livectv1.phando.com/8008/chunklist0.m3u8
+#EXTINF:-1,TV 100
+https://livectv1.phando.com/8007/chunklist0.m3u8
+#EXTINF:-1,News Nation
+https://livectv1.phando.com/8006/chunklist0.m3u8
+#EXTINF:-1,Jantantra TV
+https://livectv1.phando.com/8005/chunklist0.m3u8
+#EXTINF:-1,DD Urdu
+https://livectv1.phando.com/8004/chunklist0.m3u8
+#EXTINF:-1,PTC Punjabi
+https://livectv1.phando.com/8012/chunklist0.m3u8
+#EXTINF:-1,DD Bharti
+https://livectv1.phando.com/8002/chunklist0.m3u8
+#EXTINF:-1,DD News
+https://livectv1.phando.com/8001/chunklist0.m3u8
+#EXTINF:-1,DD National
+https://livectv1.phando.com/8000/chunklist0.m3u8
+#EXTINF:-1,Vedic
+https://livectv1.phando.com/8087/chunklist0.m3u8
+#EXTINF:-1,Angel TV
+https://livectv1.phando.com/8088/chunklist0.m3u8
+#EXTINF:-1,Tune 6 Music
+https://livectv1.phando.com/8089/chunklist0.m3u8
+#EXTINF:0,chunklist0.m3u8
+https://livectv1.phando.com/8090/chunklist0.m3u8
+#EXTINF:0,chunklist0.m3u8
+https://livectv1.phando.com/8091/chunklist0.m3u8
 
