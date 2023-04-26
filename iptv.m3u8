@@ -47,6 +47,7 @@ https://livectv.phando.com/8069/chunklist0.m3u8
 https://livectv.phando.com/8068/chunklist0.m3u8
 #EXTINF:-1,9XM
 https://livectv.phando.com/8067/chunklist0.m3u8
+#https://yupplivefragcp2.yuppcdn.net/190423/smil:9xmusic.smil/chunklist_b696000.m3u8
 #EXTINF:-1,Pitara
 https://livectv.phando.com/8066/chunklist0.m3u8
 #EXTINF:-1,9x Jalwa
@@ -378,8 +379,6 @@ https://livectv1.phando.com/8087/chunklist0.m3u8
 https://livectv1.phando.com/8088/chunklist0.m3u8
 #EXTINF:-1,Tune 6 Music
 https://livectv1.phando.com/8089/chunklist0.m3u8
-#EXTINF:0,chunklist0.m3u8
-https://livectv1.phando.com/8090/chunklist0.m3u8
-#EXTINF:0,chunklist0.m3u8
-https://livectv1.phando.com/8091/chunklist0.m3u8
+#EXTINF:0,EPIC ON
+https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 
