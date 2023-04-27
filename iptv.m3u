@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-country="IN" group-title="News",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
 #EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-country="IN" group-title="News",Khabar Fast
+https://livectv.phando.com/8085/chunklist0.m3u8
+#EXTINF:-1 tvg-country="IN" group-title="News",Hindi khabar
+https://livectv.phando.com/8056/chunklist0.m3u8
 #EXTINF:-1,IBC 24
 https://livectv.phando.com/8074/chunklist0.m3u8
 #EXTINF:-1,9X Tashan
@@ -23,8 +29,6 @@ https://livectv.phando.com/8082/chunklist0.m3u8
 https://livectv.phando.com/8032/chunklist0.m3u8
 #EXTINF:-1,Republic TV Bharat
 https://livectv.phando.com/8083/chunklist0.m3u8
-#EXTINF:-1,Khabar Fast
-https://livectv.phando.com/8085/chunklist0.m3u8
 #EXTINF:-1,Fashion TV
 https://livectv.phando.com/8086/chunklist0.m3u8
 #EXTINF:-1,E24
@@ -68,8 +72,6 @@ https://livectv.phando.com/8059/chunklist0.m3u8
 https://livectv.phando.com/8058/chunklist0.m3u8
 #EXTINF:-1,Maiboli
 https://livectv.phando.com/8057/chunklist0.m3u8
-#EXTINF:-1,Hindi khabar
-https://livectv.phando.com/8056/chunklist0.m3u8
 #EXTINF:-1,Cinema TV
 https://livectv.phando.com/8055/chunklist0.m3u8
 #EXTINF:-1,Kalinga TV
@@ -380,7 +382,5 @@ https://livectv1.phando.com/8088/chunklist0.m3u8
 https://livectv1.phando.com/8089/chunklist0.m3u8
 #EXTINF:-1,EPIC ON
 https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
-#EXTINF:-1,Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
 #EXTINF:-1,World Punjabi Tv
 https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
