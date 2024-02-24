@@ -11,6 +11,8 @@ https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
 https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
 #EXTINF:-1 tvg-id="BharatSamacharTV.in",Bharat Samachar TV (360p)
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-id="AnjanTV.in",Anjan (720p) [Not 24/7]
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
@@ -22,20 +24,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-
-#EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-country="IN" group-title="News",Khabar Fast
-https://livectv.phando.com/8085/chunklist0.m3u8
-#EXTINF:-1,9XM
-https://yupplivefragcp2.yuppcdn.net/190423/smil:9xmusic.smil/chunklist_b696000.m3u8
-
-
-#EXTINF:-1,EPIC ON
-https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF:-1,World Punjabi Tv
 https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
 
-
-#EXTINF:-1 tvg-id="",Comedy Central LA
-http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
