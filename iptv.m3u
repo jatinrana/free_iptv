@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-country="IN" group-title="News",Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in",ABP News (720p)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in",ABP Majha (720p)
