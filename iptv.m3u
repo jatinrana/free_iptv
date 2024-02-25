@@ -1,50 +1,50 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml"
 
-#EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AAJ TAK HD
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="504" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-#EXTINF:-1 tvg-id="ABPNews.in" group-title="News",ABP News (720p)
+#EXTINF:-1 tvg-id="ABPNews.in" group-title="News" tvg-country="IN" tvg-language="Hindi",ABP News (720p)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in" group-title="News",ABP Majha (720p)
+#EXTINF:-1 tvg-id="ABPMajha.in" group-title="News" tvg-country="IN" tvg-language="Hindi",ABP Majha (720p)
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-#EXTINF:-1 tvg-id="ABPSanjha.in" group-title="News",ABP Sanjha (720p)
+#EXTINF:-1 tvg-id="ABPSanjha.in" group-title="News" tvg-country="IN" tvg-language="Hindi",ABP Sanjha (720p)
 https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
-#EXTINF:-1 tvg-id="BharatSamacharTV.in" group-title="News",Bharat Samachar TV (360p)
+#EXTINF:-1 tvg-id="BharatSamacharTV.in" group-title="News" tvg-country="IN" tvg-language="Hindi",Bharat Samachar TV (360p)
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-#EXTINF:-1 tvg-country="IN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-id="DDNews.in" group-title="News",DD News (1080p)
+#EXTINF:-1 tvg-id="DDNews.in" group-title="News" tvg-country="IN" tvg-language="Hindi",DD News (1080p)
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
-#EXTINF:-1 tvg-id="BBCNewsSouthAsia.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News South Asia
+#EXTINF:-1 tvg-id="BBCNewsSouthAsia.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News" tvg-language="Hindi",BBC News South Asia
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="IndiaNews.in" group-title="News",India News (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="IndiaNews.in" group-title="News" tvg-country="IN" tvg-language="Hindi",India News (576p) [Not 24/7]
 https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsHaryana.in" group-title="News",India News Haryana (576p)
+#EXTINF:-1 tvg-id="IndiaNewsHaryana.in" group-title="News" tvg-country="IN" tvg-language="Hindi",India News Haryana (576p)
 https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in" group-title="News",India Today 
+#EXTINF:-1 tvg-id="IndiaToday.in" group-title="News" tvg-country="IN" tvg-language="Hindi",India Today 
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-id="NDTV24x7.in" group-title="News",NDTV 24X7 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="NDTV24x7.in" group-title="News" tvg-country="IN" tvg-language="Hindi",NDTV 24X7 (480p) [Not 24/7]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in" group-title="News",NDTV India (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="NDTVIndia.in" group-title="News" tvg-country="IN" tvg-language="Hindi",NDTV India (480p) [Not 24/7]
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="News24.in" group-title="News",News 24 (720p)
+#EXTINF:-1 tvg-id="News24.in" group-title="News" tvg-country="IN" tvg-language="Hindi",News 24 (720p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="231" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
+#EXTINF:-1 tvg-id="231" group-title="News" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB/DenverIsAlive.m3u8
-#EXTINF:-1 tvg-id="858" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic Hindi
+#EXTINF:-1 tvg-id="858" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic Hindi
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8#DenverIsAlive
-#EXTINF:-1 tvg-id="501" group-title="G5" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
+#EXTINF:-1 tvg-id="501" group-title="News" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="518" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",Sudarshan news
+#EXTINF:-1 tvg-id="518" group-title="News" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",Sudarshan news
 https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
-#EXTINF:-1 tvg-id="258" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
+#EXTINF:-1 tvg-id="258" group-title="News" tvg-country="IN" tvg-language="Hindi"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="259" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF:-1 tvg-id="255" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="News",FASTWAY NEWS
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-url="" group-title="News",FASTWAY NEWS
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 
 
