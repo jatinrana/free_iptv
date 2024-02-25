@@ -46,6 +46,8 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="India",DD India Ⓨ
 https://www.youtube.com/DDIndia/live
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Vyas Higher Education Channel
@@ -184,7 +186,13 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/04e037ff5378c495d51de77a4faf
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",MAQ TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Documentary",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
