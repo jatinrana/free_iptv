@@ -128,7 +128,20 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 https://dai.google.com/linear/hls/event/6MsNAzzbR2mi29Q1rm1e0w/master.m3u8
 #EXTINF:-1 tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-49.png?w=112" tvg-id="" tvg-name="" tvg-country="IN" tvg-url="" tvg-language="" group-title="Music",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music",9X Jalwa
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+#EXTINF:0 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png" group-title="Music",Zoom
+https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:0 group-title="Music" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="Music",9xM
+https://d2q8p4pe5spbak.cloudfront.net:443/bpk-tv/9XM/9XM.isml/9XM.m3u8
+#EXTINF:0 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music",Music India
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="Music",MTV Beats
+http://mitvpro.online:88/02025685921199/8999991992/96236
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV
+http://mitvpro.online:88/02025685921199/8999991992/96237
+#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
+http://mitvpro.online:88/02025685921199/8999991992/96292
 
 
 
