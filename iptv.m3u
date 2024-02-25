@@ -51,6 +51,12 @@ http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 
 #EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="Entertainment",DD India Ⓨ
 https://www.youtube.com/DDIndia/live
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",SONY SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-id="474" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Education",Vyas Higher Education Channel
@@ -66,12 +72,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 #EXTINF:-1 tvg-id="dtv_EPGMastiii - Indiaâ€™s No.1 Music and Youth Channel" tvg-name="Mastiii" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png" tvg-type="live" group-title="Music",Mastiii
 https://dai.google.com/linear/hls/event/6MsNAzzbR2mi29Q1rm1e0w/master.m3u8
 
-#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TS-JioTV SonyLIV",SONY HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="TS-JioTV SonyLIV",SONY SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-id="474" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="TS-JioTV SonyLIV",SONY PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="TS-JioTV SonyLIV",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-id="289" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="TS-JioTV SonyLIV",SONY MAX
