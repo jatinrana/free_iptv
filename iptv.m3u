@@ -44,23 +44,26 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF:-1 tvg-id="255" group-title="News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="Entertainment",DD India Ⓨ
-https://www.youtube.com/DDIndia/live
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="News",FASTWAY NEWS
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Vyas Higher Education Channel
+
+#EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="Entertainment",DD India Ⓨ
+https://www.youtube.com/DDIndia/live
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Education",Vyas Higher Education Channel
 http://playhls.media.nic.in/live/vyas/index.m3u8
 
 
-#EXTINF:-1 tvg-id="9XM.in",9XM (480p)
+#EXTINF:-1 tvg-id="9XM.in" group-title="Music",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in",Balle Balle (720p)
+#EXTINF:-1 tvg-id="BalleBalle.in" group-title="Music",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Desi Channel
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Music",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGMastiii - Indiaâ€™s No.1 Music and Youth Channel" tvg-name="Mastiii" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png" tvg-type="live" group-title="Distro TV",Mastiii
+#EXTINF:-1 tvg-id="dtv_EPGMastiii - Indiaâ€™s No.1 Music and Youth Channel" tvg-name="Mastiii" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png" tvg-type="live" group-title="Music",Mastiii
 https://dai.google.com/linear/hls/event/6MsNAzzbR2mi29Q1rm1e0w/master.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TS-JioTV SonyLIV",SONY HD
