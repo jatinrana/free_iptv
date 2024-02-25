@@ -104,6 +104,8 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Education",Vyas Higher Education Channel
 http://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Documentery",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="TS-JioTV SonyLIV",SONY PIX HD
@@ -123,7 +125,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" group-title="Music",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Music",Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMastiii - Indiaâ€™s No.1 Music and Youth Channel" tvg-name="Mastiii" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png" tvg-type="live" group-title="Music",Mastiii
 https://dai.google.com/linear/hls/event/6MsNAzzbR2mi29Q1rm1e0w/master.m3u8
 #EXTINF:-1 tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-49.png?w=112" tvg-id="" tvg-name="" tvg-country="IN" tvg-url="" tvg-language="" group-title="Music",E24
@@ -132,8 +134,6 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png" group-title="Music",Zoom
 https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Zoom/default/zoom.m3u8
-#EXTINF:0 group-title="Music" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="Music",9xM
-https://d2q8p4pe5spbak.cloudfront.net:443/bpk-tv/9XM/9XM.isml/9XM.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="Music",MTV Beats
@@ -142,6 +142,14 @@ http://mitvpro.online:88/02025685921199/8999991992/96236
 http://mitvpro.online:88/02025685921199/8999991992/96237
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
 http://mitvpro.online:88/02025685921199/8999991992/96292
+#EXTINF:-1 tvg-id="591" group-title="SERVER 1" tvg-language="Hindi" tvg-logo="" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-87 tvg-logo="https://macan.network/img/zingtv.jpg" group-title="Music",Zing
+https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Zing/default/zing.m3u8
+#EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png" group-title="Music",9X Jhakaas
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 
 
 
@@ -176,6 +184,14 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:- tvg-id="171" group-title="G5" tvg-language="English" tvg-logo=https://en.m.wikipedia.org/wiki/Love_Nature#/media/File%3ALove_Nature_TV.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentery",Animal Planet
+https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentery",Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
 #EXTINF:-1 tvg-id="566" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet
 https://raw.githubusercontent.com/Neeraj171/Project1/main/Animal%20Planet.m3u8
 #EXTINF:-1 tvg-id="242" group-title="Discovery" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery Hindi HD
@@ -188,6 +204,8 @@ https://raw.githubusercontent.com/Neeraj171/Project1/main/discovery%20science.m3
 https://raw.githubusercontent.com/Neeraj171/Project1/main/Discovery%20Turbo.m3u
 #EXTINF:-1 tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png" tvg-chno="8" group-title="Discovery",DMAX HD
 https://raw.githubusercontent.com/Neeraj171/Project1/main/DMAX.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Documentery",Travel XP English
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="875" group-title="Discovery" tvg-language="English" tvg-logo="https://te.legra.ph/file/588fbda0e490e38dbe544.png",Eurosport HD
 https://raw.githubusercontent.com/Neeraj171/Project1/main/Eurosport%20HD.m3u
 #EXTINF:-1 tvg-logo="https://te.legra.ph/file/cdc56626013f9d5b1c2ba.png" tvg-chno="11" group-title="Discovery",Food Network English
@@ -322,6 +340,8 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Mailboli
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Documentary",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
