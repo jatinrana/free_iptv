@@ -47,6 +47,11 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="India",DD India Ⓨ
 https://www.youtube.com/DDIndia/live
 
+
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Vyas Higher Education Channel
+http://playhls.media.nic.in/live/vyas/index.m3u8
+
+
 #EXTINF:-1 tvg-id="9XM.in",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in",Balle Balle (720p)
@@ -173,6 +178,12 @@ https://raw.githubusercontent.com/Neeraj171/Project1/main/TRVL_Channel.m3u8
 https://raw.githubusercontent.com/Neeraj171/Project1/main/TLC.m3u
 #EXTINF:-1 tvg-id="animal.in",Animal
 https://raw.githubusercontent.com/kusnadipepenk/ntn/04e037ff5378c495d51de77a4faf433d4397de95/animal.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",MAQ TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Fashion TV
