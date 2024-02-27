@@ -73,16 +73,24 @@ https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://samachar4media.gumlet.io/53728-CNBC-Awaaj.jpg" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="News",CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/9MJBmXYB/CNBC-Awaaz-logo.jpg",CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="News",CNBC TV 18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/9MJBmXYB/CNBC-Awaaz-logo.jpg",CNBC Awaaz [SamsungTVPlus]
+https://amg01448-samsungin-cnbcawaaznw18-samsungin-ad-wj.amagi.tv/playlist/amg01448-samsungin-cnbcawaaznw18-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/FRyQFxwx/0c80c96d-0054-4913-bdb7-0ac438bb8fd1.jpg",CNews Bharat
+https://legitpro.co.in/hls10/cnews/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/9FLSQjVV/CNN-News18.png",CNN News18 [SamsungTVPlus]
+https://amg01448-samsungin-cnnnewsnw18-samsungin-ad-gv.amagi.tv/playlist/amg01448-samsungin-cnnnewsnw18-samsungin/playlist.m3u8
 #EXTINF:-1 ,DW News English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-name="DD National" tvg-logo="" tvg-id="DDIndia.in" group-title="Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="Entertainment",DD India Ⓨ
-https://www.youtube.com/DDIndia/live
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/Hn28Tc5R/640px-New-logo-of-DD-National.jpg",DD National
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwmXu0vsBLrgwKnuv1PuyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=73d2ae52851e4171ea5476852ac349e84f08f9db07d8a842400bd300ee5c2251
 #EXTINF:-1 ,Sony TV(BD)
 http://38.96.178.201/live/SONY/index.m3u8
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
@@ -91,6 +99,12 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:-1 tvg-id="474" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 ,Colors tv
+http://170.254.18.107/COLORS/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MHdHCkJ8/E2mqi9q.jpg",Colors HD
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/65PVxvR0/star-bharat-hd.jpg",Star Bharat HD
+http://103.120.172.74:5200
 #EXTINF:-1 tvg-id="472" group-title="G5" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1 tvg-id="2024" group-title="G5" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",And TV
@@ -105,15 +119,22 @@ https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="TS-JioTV SonyLIV",SONY WAH
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/GmtsZ6bH/Dangal.png",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/DzKK1Rf8/dangal.jpg",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 ,AXN(BD)
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/1zHD6g5W/Manoranjan-Movies.jpg",Manoranjan Movies
+http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Education",Vyas Higher Education Channel
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Documentery",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Devotional" tvg-logo="https://i.postimg.cc/fTy6xq7F/Sanskar-TV-logo.png",Sanskar HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="TS-JioTV SonyLIV",SONY PIX HD
@@ -124,8 +145,10 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="TS-JioTV SonyLIV",SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 ,Star Gold HD(BD)
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/5NhRFdq2/Star-Gold-HD-2011.jpg",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/wjJHVg8F/Star-Gold-2.jpg",Star Gold 2
+http://itspkg.in/ttv/play.php?tv=976
 #EXTINF:-1 ,Star Gold SELECT(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 ,ZEE CINEMA
@@ -134,20 +157,30 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction.m3u8
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="TS-JioTV SonyLIV",SONY MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 ,AND PICTURES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQ3T7FC/picture.jpg",AND PICTURES
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures.m3u8
-#EXTINF:-1 ,Bollywood Classic(BD)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 ,Bollywood HD (BD)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/jqQ3T7FC/picture.jpg",& Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 ,Sony Max 2(BD)
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 ,BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 ,Bollywood Classic(BD)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg",Bollywood Classic HD
+http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
+#EXTINF:-1 ,Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/SRyj1S5r/bollywood-hd.jpg",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 ,SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 ,BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/fb32TVxH/Bollywood-Hungama.jpg",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+
+
 
 
 
@@ -164,11 +197,13 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music",9X Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png" group-title="Music",Zoom
-https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Zoom/default/zoom.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="Music",MTV Beats
 http://mitvpro.online:88/02025685921199/8999991992/96236
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="Music",MTV Beats
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV
 http://mitvpro.online:88/02025685921199/8999991992/96237
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music
@@ -216,15 +251,55 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 ,LIVE FOOTBALL (720P)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",T Sports 
+http://38.96.178.201/live/TSports/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Gazi TV
+http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 
 #EXTINF:-1 ,POGO
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
-#EXTINF:-1 ,SPACETOON Bangaladesh
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1 ,Discovery Kids Hindi
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+#EXTINF:-1 ,Discovery Kids Hindi
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 ,Disney Channel
+http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
+#EXTINF:-1 ,Cartoon Network
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://89.254.128.5:22280/cartoon_network/index.m3u8
+#EXTINF:-1 ,Cartoon Network Hindi
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
 
+
+#EXTINF:-1,World Punjabi Tv
+https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GlobalPunjab.in",Global Punjab (1080p)
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in",PTC Chakde (720p)
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCDholTV.in",PTC Dhol (720p)
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in",PTC Music (720p)
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in",PTC News (720p)
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in",PTC Punjabi (720p)
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in",PTC Punjabi Gold (720p)
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCSimran.in",PTC Simran (720p)
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.in",Apna Punjab TV (720p)
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Food" tvg-language="English",Food Food
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 
 
 #EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="TS-JioTV SonyLIV",SONY BBC EARTH HD
@@ -285,130 +360,4 @@ https://dplus.gammacdn.workers.dev/videos/98.m3u8
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 
 
-#EXTINF:-1,World Punjabi Tv
-https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="GlobalPunjab.in",Global Punjab (1080p)
-https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 tvg-id="PTCChakde.in",PTC Chakde (720p)
-https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCDholTV.in",PTC Dhol (720p)
-https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCMusic.in",PTC Music (720p)
-https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCNews.in",PTC News (720p)
-https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabi.in",PTC Punjabi (720p)
-https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabiGold.in",PTC Punjabi Gold (720p)
-https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCSimran.in",PTC Simran (720p)
-https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ApnaPunjabTV.in",Apna Punjab TV (720p)
-https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Radio",Vijay Radio
-https://apipermission.southradios.net/play/vijayradio
-#EXTINF:-1 group-title="Radio",Hits of Bollywood
-https://stream.zeno.fm/60ef4p33vxquv
-#EXTINF:-1 group-title="Radio",Sweety Fm
-https://ssl.aloncast.com:1536/stream
-#EXTINF:-1 group-title="Radio",Sayaji FM - It's Rocking
-https://sayajifm.radioca.st/stream
-#EXTINF:-1 group-title="Radio",AIR FM Rainbow
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
-#EXTINF:-1 group-title="Radio",Ishq
-https://prclive4.listenon.in/Ishq
-#EXTINF:-1 group-title="Radio",Vividh Bharti
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Star Radio Tamil
-https://stream.radiojar.com/7pzbvyzb7a0uv
-#EXTINF:-1 group-title="Radio",City Tamil
-https://prclive4.listenon.in/Tamil
-#EXTINF:-1 group-title="Radio",City Dance
-https://prclive4.listenon.in/Dance
-#EXTINF:-1 group-title="Radio",AIR FM Rainbow
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8
-#EXTINF:-1 group-title="Radio",City Smaran
-https://prclive4.listenon.in/Smaran
-#EXTINF:-1 group-title="Radio",FM Gold
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
-#EXTINF:-1 group-title="Radio",Mirchi Indies Radio
-https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/index_1_a-p.m3u8
-#EXTINF:-1 group-title="Radio",Kannada Hits
-https://kannadahits-lh.akamaihd.net/i/kannadahits_1@492837/master.m3u8
-#EXTINF:-1 group-title="Radio",Girmit
-https://stream.zeno.fm/3u96s1sg1d0uv
-#EXTINF:-1 group-title="Radio",Hasya Katta Official
-https://stream.zeno.fm/grpa985az98uv
-#EXTINF:-1 group-title="Radio",AIR Delhi Indraprastha
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664kbps.m3u8
-#EXTINF:-1 group-title="Radio",City Punjabi
-https://prclive4.listenon.in/Punjabi
-#EXTINF:-1 group-title="Radio",AIR Delhi Rajdhani
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio00364kbps.m3u8
-#EXTINF:-1 group-title="Radio",City Gujarati
-https://prclive4.listenon.in/Gujarati
-#EXTINF:-1 group-title="Radio",City Electronica
-https://prclive4.listenon.in/Electronica
-#EXTINF:-1 group-title="Radio",City
-https://prclive1.listenon.in/
-#EXTINF:-1 group-title="Radio",Devraag Radio
-https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/index_1_a-p.m3u8
-#EXTINF:-1 group-title="Radio",City Hip Hop
-https://prclive4.listenon.in/HipHop
-#EXTINF:-1 group-title="Radio",Indies Tamil
-https://redlive1.listenon.in/Tamil
-#EXTINF:-1 group-title="Radio",AIR Mumbai Asmita
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio01064kbps.m3u8
-#EXTINF:-1 group-title="Radio",Big FM
-https://stream.zeno.fm/r2gn1pgm4qruv
-#EXTINF:-1 group-title="Radio",Radio Jamia
-https://d29v67zeralhpo.cloudfront.net/radiojamia.m3u8
-#EXTINF:-1 group-title="Radio",English Love
-https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
-#EXTINF:-1 group-title="Radio",City Premaloka
-https://prclive4.listenon.in/Premaloka
-#EXTINF:-1 group-title="Radio",City Freedom
-https://prclive4.listenon.in/Freedom
-#EXTINF:-1 group-title="Radio",City Hindi
-https://prclive4.listenon.in/Hindi
-#EXTINF:-1 group-title="Radio",City Faith (Tamil)
-https://prclive4.listenon.in/Faith
-#EXTINF:-1 group-title="Radio",City Kannada
-https://prclive4.listenon.in/Kannada
-#EXTINF:-1 group-title="Radio",Air Mumbai Samvadita
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
-#EXTINF:-1 group-title="Radio",City Metal
-https://prclive4.listenon.in/Metal
-#EXTINF:-1 group-title="Radio",City Love Guru Bhojpuri
-https://prclive4.listenon.in/Bhojpuri
-#EXTINF:-1 group-title="Radio",City Ghazal
-https://prclive4.listenon.in/Ghazal
-#EXTINF:-1 group-title="Radio",Gurgaon Ki Awaaz
-https://gurgaonradio.out.airtime.pro/gurgaonradio_a
-#EXTINF:-1 group-title="Radio",Indies Gujarati
-https://redlive1.listenon.in/Gujarati
-#EXTINF:-1 group-title="Radio",Kool FM
-https://kool104hyderabad-lh.akamaihd.net/i/kool104hyderabad_1@838133/master.m3u8
-#EXTINF:-1 group-title="Radio",Pehla Nasha
-https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Geo Entertainment
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",MAQ TV
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Mailboli
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Documentary",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="",Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
