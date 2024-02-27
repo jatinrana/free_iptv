@@ -77,8 +77,8 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-name="DD National" tvg-logo="" tvg-id="DDIndia.in" group-title="Entertainment",DD National
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="Entertainment",DD India Ⓨ
 https://www.youtube.com/DDIndia/live
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
@@ -177,7 +177,10 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 
-
+#EXTINF:-1 ,POGO
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+#EXTINF:-1 ,SPACETOON Bangaladesh
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
 
 
