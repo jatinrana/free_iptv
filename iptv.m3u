@@ -75,6 +75,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="News",CNBC TV 18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 ,DW News English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-name="DD National" tvg-logo="" tvg-id="DDIndia.in" group-title="Entertainment",DD National
@@ -126,14 +128,27 @@ https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 ,Star Gold SELECT(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+#EXTINF:-1 ,ZEE CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema.m3u8
+#EXTINF:-1 ,ZEE ACTION
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction.m3u8
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="TS-JioTV SonyLIV",SONY MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 ,AND PICTURES
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures.m3u8
 #EXTINF:-1 ,Bollywood Classic(BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 ,Bollywood HD (BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 ,Sony Max 2(BD)
 http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,BFLIX MOVIES
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 ,SHEEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 ,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="9XM.in" group-title="Music",9XM (480p)
@@ -193,10 +208,15 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,Star Sports 2 (360p)
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
+#EXTINF:-1 ,STAR SPORTS 2 HD
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 ,Sony Sports Ten 2(360p)
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 ,Sony Sports Ten 5 HD(360p)
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+#EXTINF:-1 ,LIVE FOOTBALL (720P)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
 
 
 #EXTINF:-1 ,POGO
@@ -251,6 +271,18 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/04e037ff5378c495d51de77a4faf
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 ,History TV 18 HD(BD)
 http://38.96.178.201/live/History/index.m3u8
+#EXTINF:-1 ,Animal Planet HD (Multi Audio)
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 ,Animal Planet HD (Multi Audio)
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 ,Discovery HD Hindi (Multi Audio)
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
+#EXTINF:-1 ,Discovery Science (Multi Audio)
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 ,Discovery Turbo (Multi Audio)
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF:-1 ,TLC (Multi Audio)
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
 
 
 #EXTINF:-1,World Punjabi Tv
