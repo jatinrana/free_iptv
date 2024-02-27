@@ -81,6 +81,8 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="Entertainment",DD India Ⓨ
 https://www.youtube.com/DDIndia/live
+#EXTINF:-1 ,Sony TV(BD)
+http://38.96.178.201/live/SONY/index.m3u8
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",SONY SAB HD
@@ -101,6 +103,8 @@ https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="TS-JioTV SonyLIV",SONY WAH
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 ,AXN(BD)
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 
 
 
@@ -128,8 +132,8 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 ,Bollywood HD (BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-
-
+#EXTINF:-1 ,Sony Max 2(BD)
+http://208.86.19.13:81/7300.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-id="9XM.in" group-title="Music",9XM (480p)
@@ -245,6 +249,8 @@ https://raw.githubusercontent.com/Neeraj171/Project1/main/TLC.m3u
 https://raw.githubusercontent.com/kusnadipepenk/ntn/04e037ff5378c495d51de77a4faf433d4397de95/animal.m3u8
 #EXTINF:-1 ,Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 ,History TV 18 HD(BD)
+http://38.96.178.201/live/History/index.m3u8
 
 
 #EXTINF:-1,World Punjabi Tv
