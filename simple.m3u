@@ -210,28 +210,9 @@ https://amg01448-samsungin-cnnnewsnw18-samsungin-ad-gv.amagi.tv/playlist/amg0144
 #EXTINF:-1 group-title="News" tvg-language="English",DW News English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="162" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="TS-JioTV SonyLIV",SONY TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="514" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="TS-JioTV SonyLIV",SONY TEN 1
-https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-id="891" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="TS-JioTV SonyLIV",SONY TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="891" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="TS-JioTV SonyLIV",SONY TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Sony Sports 2 HD
 http://103.120.172.74:4800
-#EXTINF:-1 tvg-id="892" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="TS-JioTV SonyLIV",SONY TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="524" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="TS-JioTV SonyLIV",SONY TEN 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-id="817" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="TS-JioTV SonyLIV",SONY TEN 4 HD
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 tvg-id="817" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="TS-JioTV SonyLIV",SONY TEN 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-id="155" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="TS-JioTV SonyLIV",SONY TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="525" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="TS-JioTV SonyLIV",SONY TEN 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1 ,Star Sports 1 (360p)
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg",Star Sports Select 1 HD
@@ -244,7 +225,7 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 ,Sony Sports Ten 5 HD(360p)
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Jn7W9srG/Ten-Sports-HD.jpg",Ten Sports HD Pakistan
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Jn7W9srG/Ten-Sports-HD.jpg",Ten Sports HD Bangladesh
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/pdRS6X7R/be-IN-Sports-1.png",beIN Sports 1 [True Visions]
 https://edge2.laotv.la/live/Bsport1/index.m3u8
@@ -318,120 +299,4 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/kgtMcRGC/image-3.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-
-#EXTINF:-1,World Punjabi Tv
-https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="GlobalPunjab.in",Global Punjab (1080p)
-https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 tvg-id="PTCChakde.in",PTC Chakde (720p)
-https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCDholTV.in",PTC Dhol (720p)
-https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCMusic.in",PTC Music (720p)
-https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCNews.in",PTC News (720p)
-https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabi.in",PTC Punjabi (720p)
-https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabiGold.in",PTC Punjabi Gold (720p)
-https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCSimran.in",PTC Simran (720p)
-https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ApnaPunjabTV.in",Apna Punjab TV (720p)
-https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Food" tvg-language="English",Food Food
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
-#EXTINF:-1 tvg-logo="https://te.legra.ph/file/cdc56626013f9d5b1c2ba.png" tvg-chno="11" group-title="Discovery",Food Network English
-https://raw.githubusercontent.com/Neeraj171/Project1/main/Food%20Network.m3u
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/PqpD1qsv/640px-Food-Network-logo-svg.jpg",Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-
-
-
-#EXTINF:-1 tvg-id="566" group-title="Documentery" tvg-language="Hindi" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet
-https://raw.githubusercontent.com/Neeraj171/Project1/main/Animal%20Planet.m3u8
-#EXTINF:0 tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Documentery",Animal Planet
-https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD  (Multi Audio)
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD  (Multi Audio)
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/3rBNM7B0/452-144.png",Sony BBC Earth
-http://94.250.2.6:10600/play/7cgV608bN1
-#EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Documentary",SONY BBC EARTH HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-id="171" group-title="Documentary" tvg-language="English" tvg-logo=https://i.postimg.cc/DzZsrvqk/love-nature.png",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="171" group-title="Documentary" tvg-language="English" tvg-logo="https://i.postimg.cc/DzZsrvqk/love-nature.png",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU" group-title="Documentery",Discovery Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-#EXTINF:-1 ,Discovery Science (Multi Audio)
-https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 tvg-id="541" group-title="Documentary" tvg-language="English" tvg-logo="https://te.legra.ph/file/b8670a893a66fa1b5de93.jpg",Discovery Turbo
-https://raw.githubusercontent.com/Neeraj171/Project1/main/Discovery%20Turbo.m3u
-#EXTINF:-1 ,Discovery Turbo (Multi Audio)
-https://dplus.gammacdn.workers.dev/videos/98.m3u8
-#EXTINF:-1 tvg-id="242" group-title="Documentary" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery Hindi HD
-https://raw.githubusercontent.com/Neeraj171/Project1/main/discovery%20Hd%20hindi.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/rsDHB9yB/Discovery-Channel-Logo.jpg",Discovery
-http://38.96.178.201/live/Discovery/index.m3u8
-#EXTINF:-1 ,Discovery HD Hindi (Multi Audio)
-https://dplus.gammacdn.workers.dev/videos/95.m3u8
-#EXTINF:-1 tvg-id="568" group-title="Documentary" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science Hindi
-https://raw.githubusercontent.com/Neeraj171/Project1/main/discovery%20science.m3u8
-#EXTINF:-1 tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png" tvg-chno="8" group-title="Discovery",DMAX HD
-https://raw.githubusercontent.com/Neeraj171/Project1/main/DMAX.m3u8
-#EXTINF:-1 tvg-id="571" group-title="Documentary" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC Hindi HD
-https://raw.githubusercontent.com/Neeraj171/Project1/main/TLC.m3u
-#EXTINF:-1 ,TLC (Multi Audio)
-https://dplus.gammacdn.workers.dev/videos/97.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Documentery",Travel XP English
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="animal.in",Animal
-https://raw.githubusercontent.com/kusnadipepenk/ntn/04e037ff5378c495d51de77a4faf433d4397de95/animal.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/j5W7n5Lq/images.jpg",Xplore TV
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/rwYpZyk7/Historytv.jpg",History TV HD
-http://38.96.178.201/live/History/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAW6TPl2g34-F2So-4sd_M8o2htuwycdExXg&usqp=CAU",HGTV English HD
-https://raw.githubusercontent.com/Neeraj171/Project1/main/HGTV.m3u8
-#EXTINF:-1 tvg-id="527" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU",ID Hindi HD
-https://raw.githubusercontent.com/Neeraj171/Project1/main/Investigation%20Discovery.m3u
-#EXTINF:-1 tvg-logo="https://te.legra.ph/file/6db24ed6ea9959c51d758.png" tvg-chno="9" group-title="Discovery",TRVL English HD
-https://raw.githubusercontent.com/Neeraj171/Project1/main/TRVL_Channel.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/vBw4YKM5/unnamed.jpg",Bloody Disgusting
-https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k5Q6nMcC/National-Geographic-Wild.jpg",National Geographic Wild
-https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/8PVjfqLn/image.jpg",Timeline
-https://lds-timeline-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/8PVjfqLn/image.jpg",Timeline
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png",Wild Earth
-https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png",Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png",Wild Earth
-https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1 ,ID DISCOVERY
-http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Indian Regional" tvg-logo="https://i.postimg.cc/mD4Rt4tT/Dabangg.png",Dabangg [SamsungTVPlus]
-https://amg01448-samsungin-dabanggin-samsungin-fi3y5.amagi.tv/playlist/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 
