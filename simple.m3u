@@ -4,12 +4,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwmXu0vsBLrgwKnuv1PuyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=73d2ae52851e4171ea5476852ac349e84f08f9db07d8a842400bd300ee5c2251
 #EXTINF:-1 group-title="Entertainment" tvg-language="Hindi",Sony TV(BD)
 http://38.96.178.201/live/SONY/index.m3u8
-#EXTINF:-1 tvg-id="291" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="471" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",SONY SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-id="474" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
 http://103.120.172.74:1140
 #EXTINF:-1 group-title="Entertainment" tvg-language="Hindi" ,Colors tv
@@ -24,45 +18,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
-#EXTINF:-1 tvg-id="872" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Entertainment",SONY YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="1146" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",SONY MARATHI
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-id="697" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment",SONY AATH 
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-id="1393" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment",SONY WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/GmtsZ6bH/Dangal.png",Dangal
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/DzKK1Rf8/dangal.jpg",Dangal 2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1  group-title="Entertainment" tvg-language="English",AXN(BD)
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/1zHD6g5W/Manoranjan-Movies.jpg",Manoranjan Movies
-http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-vyas-channel-5512.jpg" tvg-id="" tvg-name="" tvg-country="IN" tvg-url="" tvg-language="" group-title="Educational",Vyas Higher Education Channel
-http://playhls.media.nic.in/live/vyas/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" tvg-country="US" group-title="Educational",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="https://i.postimg.cc/fTy6xq7F/Sanskar-TV-logo.png",Sanskar HD
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-
-
-
-#EXTINF:-1 ,Star Movies HD(BD)
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-#EXTINF:-1 tvg-id="289" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="TS-JioTV SonyLIV",SONY MAX
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="TS-JioTV SonyLIV",SONY MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/5NhRFdq2/Star-Gold-HD-2011.jpg",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/wjJHVg8F/Star-Gold-2.jpg",Star Gold 2
-http://itspkg.in/ttv/play.php?tv=976
 #EXTINF:-1 ,Star Gold SELECT(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 ,ZEE CINEMA
@@ -116,46 +77,30 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" group-title="Music" tvg-logo="https://i.postimg.cc/7YRY0nxX/image86b5f8b135364512.jpg",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="9XM.in" group-title="Music" tvg-logo="https://i.postimg.cc/7YRY0nxX/image86b5f8b135364512.jpg",9XM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/ydzGr4yP/9X-Jalwa.png",9X Jalwa
-http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music",9X Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/QC6KMRy6/9x-Jhakaas.png",9X Jhakaas
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png" group-title="Music",9X Jhakaas
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/7Y67yWkG/image_36.jpg",9X Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/7Y67yWkG/image_36.jpg",9X Tashan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" group-title="Music",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" tvg-country="" tvg-url="" tvg-language="" group-title="Music",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/SNzLHPqS/056bb4aa-a8a4-48d1-bad0-22b18089d22d-2.jpg",Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
-#EXTINF:-1 tvg-id="Mastiii" tvg-name="Mastiii" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png" tvg-type="live" group-title="Music",Mastiii
-https://dai.google.com/linear/hls/event/6MsNAzzbR2mi29Q1rm1e0w/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/0769bb08-fe18-4211-918b-5cabad36229b/0.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/4NBDYnq2/Mastiii-TV-logo_2.jpg",Mastiii [SamsungTVPlus]
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-49.png?w=112" tvg-id="" tvg-name="" tvg-country="IN" tvg-url="" tvg-language="Hindi" group-title="Music",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png" group-title="Music",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music",Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/T2QNcNsP/Oye-Music.jpg",Oye Music
 http://167.86.109.254:1937/OyeMusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="Music",MTV Beats
-http://mitvpro.online:88/02025685921199/8999991992/96236
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="Music",MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV
