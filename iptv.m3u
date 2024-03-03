@@ -451,6 +451,8 @@ https://raw.githubusercontent.com/Neeraj171/Project1/main/discovery%20science.m3
 https://raw.githubusercontent.com/Neeraj171/Project1/main/DMAX.m3u8
 #EXTINF:-1 tvg-id="571" group-title="Documentary" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC Hindi HD
 https://raw.githubusercontent.com/Neeraj171/Project1/main/TLC.m3u
+#EXTINF:0 tvg-logo="" group-title="Documentery",TLC (Multi Audio)
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_11.m3u8
 #EXTINF:-1 ,TLC (Multi Audio)
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Documentery",Travel XP English
