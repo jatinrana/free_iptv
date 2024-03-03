@@ -168,6 +168,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Zing/default/zing.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/showbox_logo.png" group-title="Music",Showbox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/q7cNRdw4/California-Music-Channel-Logo.png",California Music Channel
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/rFQdnCRV/City-Music-Belgium.jpg",City Music TV
@@ -265,6 +267,8 @@ https://amg01448-samsungin-cnnnewsnw18-samsungin-ad-gv.amagi.tv/playlist/amg0144
 #EXTINF:-1 group-title="News" tvg-language="English",DW News English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-id="162" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="TS-JioTV SonyLIV",SONY TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="514" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="TS-JioTV SonyLIV",SONY TEN 1
