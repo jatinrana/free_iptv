@@ -414,7 +414,7 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-id="566" group-title="Documentery" tvg-language="Hindi" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet
 https://raw.githubusercontent.com/Neeraj171/Project1/main/Animal%20Planet.m3u8
 #EXTINF:0 tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Documentery",Animal Planet
-https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+https://raw.githubusercontent.com/jatinrana/free_iptv/main/discovery/Animal_Plannet.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD  (Multi Audio)
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg",Animal Planet HD  (Multi Audio)
@@ -449,6 +449,8 @@ https://dplus.gammacdn.workers.dev/videos/95.m3u8
 https://raw.githubusercontent.com/Neeraj171/Project1/main/discovery%20science.m3u8
 #EXTINF:-1 tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png" tvg-chno="8" group-title="Discovery",DMAX HD
 https://raw.githubusercontent.com/Neeraj171/Project1/main/DMAX.m3u8
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png" tvg-chno="8" group-title="Discovery",DMAX HD
+https://raw.githubusercontent.com/jatinrana/free_iptv/main/discovery/DMAX.m3u8
 #EXTINF:-1 tvg-id="571" group-title="Documentary" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC Hindi HD
 https://raw.githubusercontent.com/Neeraj171/Project1/main/TLC.m3u
 #EXTINF:0 tvg-logo="" group-title="Documentery",TLC (Multi Audio)
