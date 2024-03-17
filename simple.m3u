@@ -10,12 +10,6 @@ http://170.254.18.107/COLORS/index.m3u8
 http://103.120.172.74:1070
 #EXTINF:-1 group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/65PVxvR0/star-bharat-hd.jpg",Star Bharat HD
 http://103.120.172.74:5200
-#EXTINF:-1 tvg-id="472" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 tvg-id="2024" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",And TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
-#EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/GmtsZ6bH/Dangal.png",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/DzKK1Rf8/dangal.jpg",Dangal 2
