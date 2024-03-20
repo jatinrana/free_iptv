@@ -66,4 +66,9 @@ https://mhdtv.co.in/jio/stream.php?id=204&e=.m3u8
 https://mhdtv.co.in/jio/stream.php?id=212&e=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",
 https://mhdtv.co.in/jio/stream.php?id=224&e=.m3u8
-
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="NEWS",NEWS 18 INDIA
+https://mhdtv.co.in/jio/stream.php?id=231&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="NEWS",NEWS 18 Lokmat
+https://mhdtv.co.in/jio/stream.php?id=232&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",INDIA TV
+https://mhdtv.co.in/jio/stream.php?id=235&e=.m3u8
