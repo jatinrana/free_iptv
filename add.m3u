@@ -40,11 +40,30 @@ https://mhdtv.co.in/jio/stream.php?id=175&e=.m3u8
 https://mhdtv.co.in/jio/stream.php?id=177&e=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="application/vnd.apple.mpegurl",
 https://mhdtv.co.in/jio/stream.php?id=181&e=.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",B4U Movies
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="Movies",B4U Movies
 https://mhdtv.co.in/jio/stream.php?id=182&e=.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",B4U Movies
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="Music",B4U Music
 https://mhdtv.co.in/jio/stream.php?id=183&e=.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",& Pictures HD
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="Movies",& Pictures HD
 https://mhdtv.co.in/jio/stream.php?id=185&e=.m3u8
-
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",
+https://mhdtv.co.in/jio/stream.php?id=189&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="NEWS",CNBC AWAAZ
+https://mhdtv.co.in/jio/stream.php?id=190&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="NEWS",CNN
+https://mhdtv.co.in/jio/stream.php?id=193&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="Entertainment",Colors Gujrati
+https://mhdtv.co.in/jio/stream.php?id=196&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",Colors UDIYA
+https://mhdtv.co.in/jio/stream.php?id=198&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="Entertainment",DD National
+https://mhdtv.co.in/jio/stream.php?id=202&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="NEWS",DD News
+https://mhdtv.co.in/jio/stream.php?id=203&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="Sports",DD Sports
+https://mhdtv.co.in/jio/stream.php?id=204&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="NEWS",ET Now
+https://mhdtv.co.in/jio/stream.php?id=212&e=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" tvg-language="" group-title="",
+https://mhdtv.co.in/jio/stream.php?id=224&e=.m3u8
 
