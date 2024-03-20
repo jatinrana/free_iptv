@@ -34,6 +34,10 @@ http://103.120.172.74:4100
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 tvg-name="BFLIX MOVIES" tvg-logo="" tvg-id="" tvg-language="" group-title="",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 tvg-name="MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg" tvg-id="" tvg-language="" group-title="TIVIMAXX ➤➤",MANORANJAN MOVIES
+http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
+#EXTINF:-1 tvg-name="MAHA MOVIES" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-id="" tvg-language="" group-title="TIVIMAXX ➤➤",MAHA MOVIES
+http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
 #EXTINF:-1 tvg-name="Bollywood Classic(BD)" tvg-logo="" tvg-id="" tvg-language="" group-title="",Bollywood Classic(BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-name="Bollywood Classic HD" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg" tvg-id="" tvg-language="" group-title="Indian",Bollywood Classic HD
@@ -42,6 +46,8 @@ http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="https://i.postimg.cc/SRyj1S5r/bollywood-hd.jpg" tvg-id="" tvg-language="" group-title="Indian",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Bollywood" tvg-logo="" tvg-id="" tvg-language="" group-title="INDIAN MOVIES ➤",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="Bollywood Hungama" tvg-logo="https://i.postimg.cc/fb32TVxH/Bollywood-Hungama.jpg" tvg-id="" tvg-language="" group-title="Indian",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-name="& flix HD" tvg-logo="https://i.postimg.cc/3xPN5CVW/flix.jpg" tvg-id="" tvg-language="" group-title="English",& flix HD
@@ -66,6 +72,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
 #EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://i.postimg.cc/7Y67yWkG/image_36.jpg" tvg-id="" tvg-language="" group-title="Music",9X Tashan
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 tvg-name="E24" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png" tvg-id="" tvg-language="" group-title="TIVIMAXX ➤➤",E24
+http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-name="Balle Balle (720p)" tvg-logo="" tvg-id="BalleBalle.in" tvg-language="" group-title="Music",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-name="Desi Channel" tvg-logo="" tvg-id="" tvg-language="" group-title="Music",Desi Channel
@@ -178,6 +186,8 @@ https://edge2.laotv.la/live/Bsport1/index.m3u8
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2 [True Visions]" tvg-logo="https://i.postimg.cc/Kzssj7Y8/be-IN-Sports-2.jpg" tvg-id="" tvg-language="" group-title="Sports",beIN Sports 2 [True Visions]
 https://edge1.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 tvg-name="X SPORT 🇷🇺" tvg-logo="" tvg-id="" tvg-language="" group-title="",X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 tvg-name="LIVE FOOTBALL (720P)" tvg-logo="" tvg-id="" tvg-language="" group-title="",LIVE FOOTBALL (720P)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://i.postimg.cc/qM1x5bLh/download-6.jpg" tvg-id="" tvg-language="" group-title="Sports",Dubai Sports 3
@@ -186,6 +196,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Horse & Country TV" tvg-logo="https://i.postimg.cc/CMrRr0x6/h-c.jpg" tvg-id="" tvg-language="" group-title="Sports",Horse & Country TV
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbull TV" tvg-logo="" tvg-id="" tvg-language="" group-title="",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="MAVTV Motorsports Network [SamsungTVPlus]" tvg-logo="https://i.postimg.cc/pTLx7XV5/MAVTV-Motorsports-Network.png" tvg-id="" tvg-language="" group-title="Sports",MAVTV Motorsports Network [SamsungTVPlus]
 https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://i.postimg.cc/Y0LKN0jL/MUTV-Manchester-United-TV.png" tvg-id="" tvg-language="" group-title="Sports",MUTV
