@@ -2,6 +2,8 @@
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.postimg.cc/Hn28Tc5R/640px-New-logo-of-DD-National.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",DD National
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwmXu0vsBLrgwKnuv1PuyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=73d2ae52851e4171ea5476852ac349e84f08f9db07d8a842400bd300ee5c2251
+#EXTINF:-1 tvg-id="143" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SONYLIV",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Colors tv" tvg-logo="" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Colors tv
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/MHdHCkJ8/E2mqi9q.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Colors HD
