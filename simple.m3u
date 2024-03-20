@@ -4,6 +4,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwmXu0vsBLrgwKnuv1PuyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=73d2ae52851e4171ea5476852ac349e84f08f9db07d8a842400bd300ee5c2251
 #EXTINF:-1 tvg-id="143" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SONYLIV",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Entertainment Tv" tvg-logo="https://i.imgur.com/nP7vORq.jpg" tvg-id="" tvg-language="" group-title="INDIAN ENTERTAINMENT",Sony Entertainment Tv
+http://103.120.172.74:1110/
 #EXTINF:-1 tvg-name="Colors tv" tvg-logo="" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Colors tv
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/MHdHCkJ8/E2mqi9q.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Colors HD
@@ -22,8 +24,6 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="Sanskar HD" tvg-logo="https://i.postimg.cc/fTy6xq7F/Sanskar-TV-logo.png" tvg-id="" tvg-language="" group-title="Devotional",Sanskar HD
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-#EXTINF:-1 tvg-name="Star Movies HD(BD)" tvg-logo="" tvg-id="" tvg-language="" group-title="",Star Movies HD(BD)
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/5NhRFdq2/Star-Gold-HD-2011.jpg" tvg-id="" tvg-language="" group-title="Movies",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 tvg-name="Star Gold SELECT(BD)" tvg-logo="" tvg-id="" tvg-language="" group-title="",Star Gold SELECT(BD)
