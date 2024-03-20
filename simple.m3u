@@ -178,6 +178,8 @@ https://amg01448-samsungin-cnnnewsnw18-samsungin-ad-gv.amagi.tv/playlist/amg0144
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg" tvg-id="" tvg-language="" group-title="Sports",Star Sports Select 1 HD
 http://103.120.172.74:1030
+#EXTINF:-1 tvg-name="Live Sports Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png" tvg-id="" tvg-language="" group-title="Live Sports",Live Sports Star Sports Select 2
+http://103.120.172.74:4700/
 #EXTINF:-1 tvg-name="Ten Sports HD Pakistan" tvg-logo="https://i.postimg.cc/Jn7W9srG/Ten-Sports-HD.jpg" tvg-id="" tvg-language="" group-title="Sports",Ten Sports HD Pakistan
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:-1 tvg-name="beIN Sports 1 [True Visions]" tvg-logo="https://i.postimg.cc/pdRS6X7R/be-IN-Sports-1.png" tvg-id="" tvg-language="" group-title="Sports",beIN Sports 1 [True Visions]
@@ -186,10 +188,16 @@ https://edge2.laotv.la/live/Bsport1/index.m3u8
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 2 [True Visions]" tvg-logo="https://i.postimg.cc/Kzssj7Y8/be-IN-Sports-2.jpg" tvg-id="" tvg-language="" group-title="Sports",beIN Sports 2 [True Visions]
 https://edge1.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports France 1" tvg-logo="https://i.imgur.com/NAsylzo.jpg" tvg-id="" tvg-language="" group-title="SPORTS 2",beIN Sports France 1
+https://edge2.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports France 3" tvg-logo="https://i.imgur.com/I1VyWqt.jpg" tvg-id="" tvg-language="" group-title="SPORTS 2",beIN Sports France 3
+https://edge1.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-name="X SPORT 🇷🇺" tvg-logo="" tvg-id="" tvg-language="" group-title="",X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 tvg-name="LIVE FOOTBALL (720P)" tvg-logo="" tvg-id="" tvg-language="" group-title="",LIVE FOOTBALL (720P)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="Dubai Sport 2" tvg-logo="https://i.imgur.com/HoL7QWy.png" tvg-id="" tvg-language="" group-title="SPORTS 2",Dubai Sport 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://i.postimg.cc/qM1x5bLh/download-6.jpg" tvg-id="" tvg-language="" group-title="Sports",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-name="EDGEsport" tvg-logo="https://i.postimg.cc/mrKkVQ68/EDGEsport.jpg" tvg-id="" tvg-language="" group-title="Sports",EDGEsport
@@ -198,16 +206,12 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="" tvg-id="" tvg-language="" group-title="",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-name="MAVTV Motorsports Network [SamsungTVPlus]" tvg-logo="https://i.postimg.cc/pTLx7XV5/MAVTV-Motorsports-Network.png" tvg-id="" tvg-language="" group-title="Sports",MAVTV Motorsports Network [SamsungTVPlus]
-https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://i.postimg.cc/Y0LKN0jL/MUTV-Manchester-United-TV.png" tvg-id="" tvg-language="" group-title="Sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://i.postimg.cc/Y0LKN0jL/MUTV-Manchester-United-TV.png" tvg-id="" tvg-language="" group-title="Sports",MUTV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-name="Origin Sports" tvg-logo="https://i.postimg.cc/nzV9PY9v/Origin-Sports.jpg" tvg-id="" tvg-language="" group-title="Sports",Origin Sports
 https://raycoms-originsports.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="PGA Tour [SamsungTVPlus]" tvg-logo="https://i.postimg.cc/SKvfVC0X/PGA-Tour.png" tvg-id="" tvg-language="" group-title="Sports",PGA Tour [SamsungTVPlus]
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_in_pgatour_001.m3u8
 #EXTINF:-1 tvg-name="Racing America" tvg-logo="https://i.postimg.cc/fLZqGqYq/Racing-America.jpg" tvg-id="" tvg-language="" group-title="Sports",Racing America
 https://racingamerica-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://i.postimg.cc/nzX8RPZ8/image.jpg" tvg-id="" tvg-language="" group-title="Sports",Real Madrid TV
