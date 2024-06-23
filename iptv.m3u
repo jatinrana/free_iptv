@@ -12,6 +12,8 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 http://103.120.172.74:1140
 #EXTINF:-1 tvg-name="Food Food" tvg-logo="" tvg-id="" tvg-language="English" group-title="Food",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1 tvg-name="Bollywood Hungama" tvg-logo="" tvg-id="" tvg-language="" group-title="Music",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-name="Nasa TV" tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" tvg-id="" tvg-language="" group-title="Educational",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="Vyas Higher Education Channel" tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-vyas-channel-5512.jpg" tvg-id="" tvg-language="" group-title="Educational",Vyas Higher Education Channel
@@ -139,6 +141,42 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation.m3u8
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" tvg-id="504" tvg-language="Hindi" group-title="News",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_footer.png" tvg-id="" tvg-language="Hindi" group-title="News",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-name="1st India News" tvg-logo="https://firstindianews.com/images/logo.png" tvg-id="" tvg-language="" group-title="News",1st India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-name="ABP Majha" tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png" tvg-id="" tvg-language="" group-title="News",ABP Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
+#EXTINF:-1 tvg-name="ABP News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" tvg-id="" tvg-language="" group-title="News",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
+#EXTINF:-1 tvg-name="AajTak" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-153X116.png" tvg-id="" tvg-language="" group-title="News",AajTak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Aljazeera News" tvg-logo="https://static.timesofisrael.com/www/uploads/2013/01/jazeera.jpg" tvg-id="" tvg-language="" group-title="News",Aljazeera News
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="Bharat Samachar" tvg-logo="https://bharatsamachartv.in/wp-content/uploads/2021/10/Bharat-Samachar-1.png" tvg-id="" tvg-language="" group-title="News",Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
+#EXTINF:-1 tvg-name="Good News Today" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" tvg-id="" tvg-language="" group-title="News",Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="India News" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0442.IndiaNews.in/1x1/5x/test_pic1552315699798.jpg" tvg-id="" tvg-language="" group-title="News",India News
+https://livetv.newsx.com/itv/itvnetwork5/chunklist_w2875901.m3u8
+#EXTINF:-1 tvg-name="India TV" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png" tvg-id="" tvg-language="" group-title="News",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" tvg-id="" tvg-language="" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Janata TV" tvg-logo="https://yt3.ggpht.com/bBGs_he_TxhFxncS9VvQpnrL6sxZO0y-uhzf_dkb5OULq-iiPMAOfRNkLcMOben0UWp-J-Asag=s68-c-k-c0x00ffffff-no-rj" tvg-id="" tvg-language="" group-title="News",Janata TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" tvg-id="" tvg-language="" group-title="News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1 tvg-name="News 24" tvg-logo="https://hindi.news24online.com/wp-content/uploads/2022/07/logo.png" tvg-id="" tvg-language="" group-title="News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="News Nation" tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg" tvg-id="" tvg-language="" group-title="News",News Nation
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://bharat.republicworld.com/assets/images/rbharat-logo.jpg" tvg-id="" tvg-language="" group-title="News",Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/a6babad5-e747-47ed-b4e6-984c409c037b/2.m3u8
+#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg" tvg-id="" tvg-language="" group-title="News",TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="TV9 Marathi" tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png" tvg-id="" tvg-language="" group-title="News",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_footer.png" tvg-id="" tvg-language="" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://i.postimg.cc/qM1x5bLh/download-6.jpg" tvg-id="" tvg-language="" group-title="Sports",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
