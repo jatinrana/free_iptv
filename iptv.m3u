@@ -216,6 +216,8 @@ https://racingamerica-plex.amagi.tv/playlist.m3u8
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" tvg-id="" tvg-language="" group-title="Sports",Sony Sports 2 HD
 http://103.120.172.74:4800
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" tvg-id="" tvg-language="" group-title="",Star Sports 1 Bangla
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="Sports Grid" tvg-logo="https://i.postimg.cc/HnZjXKpr/image.jpg" tvg-id="" tvg-language="" group-title="Sports",Sports Grid
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sports Grid" tvg-logo="https://i.postimg.cc/HnZjXKpr/image.jpg" tvg-id="" tvg-language="" group-title="Sports",Sports Grid
