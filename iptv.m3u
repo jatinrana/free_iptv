@@ -1,17 +1,33 @@
-#EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/MHdHCkJ8/E2mqi9q.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Colors HD
-http://103.120.172.74:1070
 #EXTINF:-1 tvg-name="DD National" tvg-logo="" tvg-id="DDIndia.in" tvg-language="Hindi" group-title="Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 ,SONY TV
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.postimg.cc/Hn28Tc5R/640px-New-logo-of-DD-National.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",DD National
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwmXu0vsBLrgwKnuv1PuyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=73d2ae52851e4171ea5476852ac349e84f08f9db07d8a842400bd300ee5c2251
+#EXTINF:-1 tvg-name="DD National" tvg-logo="" tvg-id="" tvg-language="" group-title="Doordarshan",DD National
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-name="DD Bharati" tvg-logo="" tvg-id="" tvg-language="" group-title="Doordarshan",DD Bharati
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddbharti/default/index.m3u8
+#EXTINF:-1 tvg-name="STAR Plus HD" tvg-logo="" tvg-id="" tvg-language="" group-title="",STAR Plus HD
+http://103.120.172.74:4300
+#EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/MHdHCkJ8/E2mqi9q.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Colors HD
+http://103.120.172.74:1070
+#EXTINF:-1 ,SONY TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg" tvg-id="" tvg-language="" group-title="Hindi",Sony Sab
+http://103.120.172.74:4400
+#EXTINF:-1 tvg-name="Sony TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png" tvg-id="" tvg-language="" group-title="Hindi",Sony TV HD
+http://103.120.172.74:5000
 #EXTINF:-1 tvg-name="Dangal" tvg-logo="https://i.postimg.cc/GmtsZ6bH/Dangal.png" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Dangal 2" tvg-logo="https://i.postimg.cc/DzKK1Rf8/dangal.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Zee TV
 http://103.120.172.74:1140
+#EXTINF:-1 tvg-name="StarBharat HD" tvg-logo="" tvg-id="" tvg-language="" group-title="",StarBharat HD
+http://103.120.172.74:5200
+#EXTINF:-1 tvg-name="Zee Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" tvg-id="" tvg-language="" group-title="INDIAN CHANNELS",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="EPIC" tvg-logo="" tvg-id="" tvg-language="" group-title="",EPIC
+https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1 tvg-name="Food Food" tvg-logo="" tvg-id="" tvg-language="English" group-title="Food",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 tvg-name="Bollywood Hungama" tvg-logo="" tvg-id="" tvg-language="" group-title="Music",Bollywood Hungama
@@ -34,10 +50,14 @@ http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://amg01448-samsungin-dabanggin-samsungin-fi3y5.amagi.tv/playlist/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="BFLIX MOVIES" tvg-logo="" tvg-id="" tvg-language="" group-title="",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
-#EXTINF:-1 tvg-name="Bollywood" tvg-logo="" tvg-id="" tvg-language="" group-title="",Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-name="Bollywood Classic(BD)" tvg-logo="" tvg-id="" tvg-language="" group-title="",Bollywood Classic(BD)
+#EXTINF:-1 tvg-name="Bollywood Classic" tvg-logo="" tvg-id="" tvg-language="" group-title="",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="" tvg-id="" tvg-language="" group-title="",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-name="Bollywood Hungama" tvg-logo="" tvg-id="" tvg-language="" group-title="",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF:-1 tvg-name="The Q" tvg-logo="" tvg-id="" tvg-language="" group-title="",The Q
+https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://i.postimg.cc/HLPTM007/download-14.jpg" tvg-id="" tvg-language="" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-name="Pogo [SamsungTVPlus]" tvg-logo="https://i.postimg.cc/jj7WLkPz/download-10.jpg" tvg-id="" tvg-language="" group-title="Kids",Pogo [SamsungTVPlus]
@@ -100,8 +120,11 @@ https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png" tvg-id="" tvg-language="" group-title="Music",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
 #EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News
 https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+#EXTINF:-1 tvg-name="AajTak" tvg-logo="" tvg-id="" tvg-language="" group-title="HindiNEWS",AajTak
+https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-name="AAJ TAK HD" tvg-logo="https://i.imgur.com/8UG9dAT.png" tvg-id="" tvg-language="Hindi" group-title="News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-name="ABP Majha (720p)" tvg-logo="" tvg-id="ABPMajha.in" tvg-language="Hindi" group-title="News",ABP Majha (720p)
@@ -216,14 +239,18 @@ https://racingamerica-plex.amagi.tv/playlist.m3u8
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" tvg-id="" tvg-language="" group-title="Sports",Sony Sports 2 HD
 http://103.120.172.74:4800
-#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" tvg-id="" tvg-language="" group-title="",Star Sports 1 Bangla
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="Sports Grid" tvg-logo="https://i.postimg.cc/HnZjXKpr/image.jpg" tvg-id="" tvg-language="" group-title="Sports",Sports Grid
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sports Grid" tvg-logo="https://i.postimg.cc/HnZjXKpr/image.jpg" tvg-id="" tvg-language="" group-title="Sports",Sports Grid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg" tvg-id="" tvg-language="" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" tvg-id="" tvg-language="" group-title="Sports",Star Sports 1 HD
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" tvg-id="" tvg-language="" group-title="",Star Sports 1 Bangla
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" tvg-id="" tvg-language="" group-title="Sports",Star Sports Select 1
 http://103.120.172.74:1030
+#EXTINF:-1 tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" tvg-id="" tvg-language="" group-title="Sports",Star Sports Select 2
+http://103.120.172.74:4700
 #EXTINF:-1 tvg-name="Ten Sports HD Pakistan" tvg-logo="https://i.postimg.cc/Jn7W9srG/Ten-Sports-HD.jpg" tvg-id="" tvg-language="" group-title="Sports",Ten Sports HD Pakistan
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:-1 tvg-name="Sony Sports Ten 2(360p)" tvg-logo="" tvg-id="" tvg-language="" group-title="",Sony Sports Ten 2(360p)
@@ -232,6 +259,8 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="IPL2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",IPL 2024 Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-name="Sports 18 1 HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png" tvg-id="" tvg-language="" group-title="Sports",Sports 18 1 HD
+http://103.120.172.74:5500
 #EXTINF:-1 tvg-name="LIVE FOOTBALL (720P)" tvg-logo="" tvg-id="" tvg-language="" group-title="",LIVE FOOTBALL (720P)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="PTC Chakde (720p)" tvg-logo="" tvg-id="PTCChakde.in" tvg-language="" group-title="",PTC Chakde (720p)
@@ -250,12 +279,22 @@ https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
 https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="World Punjabi Tv" tvg-logo="" tvg-id="" tvg-language="" group-title="",World Punjabi Tv
 https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="Sanskar HD" tvg-logo="https://i.postimg.cc/fTy6xq7F/Sanskar-TV-logo.png" tvg-id="" tvg-language="" group-title="Devotional",Sanskar HD
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-name="Global Punjab (1080p)" tvg-logo="" tvg-id="GlobalPunjab.in" tvg-language="" group-title="",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-name="Apna Punjab TV (720p)" tvg-logo="" tvg-id="ApnaPunjabTV.in" tvg-language="" group-title="",Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-name="Sanskar HD" tvg-logo="https://i.postimg.cc/fTy6xq7F/Sanskar-TV-logo.png" tvg-id="" tvg-language="" group-title="Devotional",Sanskar HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-name="FTV" tvg-logo="" tvg-id="" tvg-language="" group-title="LIFESTYLE",FTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="FTV MID" tvg-logo="" tvg-id="" tvg-language="" group-title="LIFESTYLE",FTV MID
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="FTV NYK" tvg-logo="" tvg-id="" tvg-language="" group-title="LIFESTYLE",FTV NYK
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="" tvg-id="" tvg-language="" group-title="LIFESTYLE",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="New Fashion" tvg-logo="" tvg-id="" tvg-language="" group-title="LIFESTYLE",New Fashion
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_hd_uir_43438_vidio_id_1609_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Documentery",Animal Planet
 https://raw.githubusercontent.com/jatinrana/free_iptv/main/discovery/Animal_Plannet.m3u8
 #EXTINF:-1 tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png"  group-title="Documentery",DMAX HD
@@ -298,5 +337,21 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="Xplore TV" tvg-logo="https://i.postimg.cc/j5W7n5Lq/images.jpg" tvg-id="" tvg-language="" group-title="Documentary",Xplore TV
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Xplore" tvg-logo="" tvg-id="" tvg-language="" group-title="",Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel XP English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" tvg-id="" tvg-language="" group-title="Documentery",Travel XP English
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel XP English NL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" tvg-id="" tvg-language="" group-title="Information",Travel XP English NL
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel XP English NZ" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" tvg-id="" tvg-language="" group-title="Information",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel XP GB" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" tvg-id="" tvg-language="" group-title="Information",Travel XP GB
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="Travel 4K" tvg-logo="" tvg-id="" tvg-language="" group-title="",Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-name="Travel XP" tvg-logo="" tvg-id="" tvg-language="" group-title="",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TravelXP hindi HD" tvg-logo="" tvg-id="" tvg-language="" group-title="",TravelXP hindi HD
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Whoa That Was Wild (EU)" tvg-logo="" tvg-id="" tvg-language="" group-title="",Whoa That Was Wild (EU)
+https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
