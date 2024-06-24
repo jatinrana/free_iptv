@@ -224,6 +224,8 @@ http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCU
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 5 HD(360p)" tvg-logo="" tvg-id="" tvg-language="" group-title="",Sony Sports Ten 5 HD(360p)
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPL2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",IPL 2024 Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="LIVE FOOTBALL (720P)" tvg-logo="" tvg-id="" tvg-language="" group-title="",LIVE FOOTBALL (720P)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="PTC Chakde (720p)" tvg-logo="" tvg-id="PTCChakde.in" tvg-language="" group-title="",PTC Chakde (720p)
