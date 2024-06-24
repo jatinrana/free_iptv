@@ -2,6 +2,8 @@
 http://103.120.172.74:1070
 #EXTINF:-1 tvg-name="DD National" tvg-logo="" tvg-id="DDIndia.in" tvg-language="Hindi" group-title="Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 ,SONY TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.postimg.cc/Hn28Tc5R/640px-New-logo-of-DD-National.jpg" tvg-id="" tvg-language="Hindi" group-title="Entertainment",DD National
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwmXu0vsBLrgwKnuv1PuyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=73d2ae52851e4171ea5476852ac349e84f08f9db07d8a842400bd300ee5c2251
 #EXTINF:-1 tvg-name="Dangal" tvg-logo="https://i.postimg.cc/GmtsZ6bH/Dangal.png" tvg-id="" tvg-language="Hindi" group-title="Entertainment",Dangal
