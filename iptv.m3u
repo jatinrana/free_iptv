@@ -42,6 +42,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/dVdvdMNt/sjM1MbFR.jpg" tvg-id="" tvg-language="" group-title="Indian",Zee Cinema HD
 http://103.120.172.74:4100
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Yy5LOXMMyH6bO-E3Gx-YC45CBDTAr8GeEl4iW3MA7NRfkI180pyHxAY&s=10",& Picture
+http://xtv.ooo:8080/live/Behraam223/8237588/221260.ts
 #EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-id="" tvg-language="" group-title="Hindi",SONY MAX HD
 http://103.120.172.74:1150
 #EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" tvg-id="" tvg-language="" group-title="Hindi",Colors Cineplex HD
